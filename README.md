@@ -94,7 +94,7 @@ Momentum is developed using agile-inspired sprints to ensure iterative progress,
 
 ### 🗓 Sprint 1: MVP – Core Functionality
 
-**Duration:** 1 Week  
+**Duration:** March 30, 2025 - April 5, 2025 (1 Week)  
 **Goal:** Build a functional gym regimen generator with a static frontend.
 
 #### ✅ Deliverables:
@@ -109,7 +109,7 @@ Momentum is developed using agile-inspired sprints to ensure iterative progress,
 
 ### 🗓 Sprint 2: Usability + UI Improvements
 
-**Duration:** 1 Week  
+**Duration:** April 6, 2025 - April 12, 2025 (1 Week)  
 **Goal:** Enhance user experience and add polish.
 
 #### ✅ Deliverables:
@@ -174,7 +174,7 @@ Momentum is developed using agile-inspired sprints to ensure iterative progress,
 #### Quick Start Options
 
 - **Using Python 3 (Built-in Web Server)**
-  ```bash
-  python -m http.server 5500
+    ```bash
+    python -m http.server 5500
+    ```
 
- 
