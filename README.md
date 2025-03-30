@@ -69,11 +69,10 @@ Momentum is built for individuals who want a structured, easy-to-use tool for pl
 | Git            | Version control                  |
 
 ### Deployment Checklist
-- Validate HTML/CSS for accessibility.
-- Ensure JSON fetch is working in production.
-- Minify and compress assets.
-- Deploy on GitHub Pages, Netlify, or similar hosting service.
-
+- [X] Validate HTML/CSS for accessibility.
+- [ ] Ensure JSON fetch is working in production.
+- [ ] Minify and compress assets.
+- [ ] Deploy on GitHub Pages, Netlify, or similar hosting service.
 ---
 
 ## Project Structure
