@@ -46,27 +46,39 @@ function generateWorkoutPlan(db, goal, level, days) {
     return plan;
   }
 
-  // Shuffle exercises and create a plan for the specified number of days
-  const shuffled = availableExercises.sort(() => 0.5 - Math.random());
+  // Group exercises by muscle group
+  const groupedExercises = {
+    fullBody: availableExercises.filter(e => e.muscle_group === "Full Body"),
+    core: availableExercises.filter(e => e.muscle_group === "Core"),
+    legs: availableExercises.filter(e => e.muscle_group === "Legs"),
+    chest: availableExercises.filter(e => e.muscle_group === "Chest"),
+    back: availableExercises.filter(e => e.muscle_group === "Back")
+  };
 
-  for (let i = 0; i < days; i++) {
-    const startIndex = (i * 3) % shuffled.length;
-    let dayWorkout = {
-      day: `Day ${i + 1}`,
-      exercises: shuffled.slice(startIndex, startIndex + 3)
-    };
+  // Helper function to get exercises for a specific muscle group
+  const getExercises = (group, count = 3) => {
+    const shuffled = groupedExercises[group].sort(() => 0.5 - Math.random());
+    return shuffled.slice(0, count);
+  };
 
-    // Adjust for cases where there are fewer than 3 exercises
-    if (dayWorkout.exercises.length < 3) {
-      dayWorkout.exercises = dayWorkout.exercises.concat(
-        shuffled.slice(0, 3 - dayWorkout.exercises.length)
-      );
+  if (days <= 3) {
+    // For 3 days or less: Full Body and Core focus
+    plan.push({ day: "Day 1", exercises: getExercises("fullBody") });
+    if (days > 1) plan.push({ day: "Day 2", exercises: getExercises("core") });
+    if (days > 2) plan.push({ day: "Day 3", exercises: getExercises("fullBody") });
+  } else {
+    // For more than 3 days: Split by muscle group, full body, and core
+    plan.push({ day: "Day 1", exercises: getExercises("fullBody") });
+    plan.push({ day: "Day 2", exercises: getExercises("legs") });
+    plan.push({ day: "Day 3", exercises: getExercises("core") });
+    plan.push({ day: "Day 4", exercises: getExercises("chest") });
+    plan.push({ day: "Day 5", exercises: getExercises("back") });
+
+    // For more than 5 days: Repeat days
+    for (let i = 6; i <= days; i++) {
+      const repeatDay = i % 5 === 1 ? "fullBody" : i % 5 === 2 ? "legs" : i % 5 === 3 ? "core" : i % 5 === 4 ? "chest" : "back";
+      plan.push({ day: `Day ${i}`, exercises: getExercises(repeatDay) });
     }
-
-    // Ensure no duplicate exercises if the array length is less than 3
-    dayWorkout.exercises = Array.from(new Set(dayWorkout.exercises));
-
-    plan.push(dayWorkout);
   }
 
   return plan;
