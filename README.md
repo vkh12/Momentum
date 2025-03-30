@@ -77,16 +77,7 @@ Momentum is built for individuals who want a structured, easy-to-use tool for pl
 ---
 
 ## Project Structure
-momentum/
-│
-├── index.html         # Main HTML layout and UI
-├── style.css          # CSS for layout and styling
-├── script.js          # JavaScript logic for plan generation
-├── workouts.json      # JSON-based exercise database
-├── README.md          # Project documentation (with embedded PRD)
-└── assets/            # (Optional) Images, logos, and preview screenshots
-    └── preview.png
-
+momentum/ ├── index.html # Main HTML layout and UI ├── style.css # CSS for layout and styling ├── script.js # JavaScript logic for workout plan generation ├── workouts.json # JSON-based exercise database ├── README.md # Project documentation (this file) ├── assets/ # Folder for images, logos, and other assets │ └── preview.png # (Optional) Preview image for the project
 ## Getting Started
 
 ### Prerequisites
