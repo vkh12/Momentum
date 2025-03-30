@@ -1,61 +1,266 @@
 {
-  "weight_loss": {
-    "beginner": ["Jump Rope", "Bodyweight Squats", "Mountain Climbers", "Plank", "Jogging (20 mins)"],
-    "intermediate": ["Burpees", "Kettlebell Swings", "Jump Lunges", "Cycling (30 mins)"],
-    "advanced": ["HIIT Sprints", "Battle Ropes", "Box Jumps", "Tire Flips"]
-  },
-  "muscle_gain": {
-    "beginner": ["Push-ups", "Bodyweight Rows", "Dumbbell Curls", "Goblet Squats"],
-    "intermediate": ["Bench Press", "Barbell Rows", "Overhead Press", "Deadlifts"],
-    "advanced": ["Weighted Pull-ups", "Clean and Press", "Front Squats", "Barbell Hip Thrusts"]
-  },
-  "endurance": {
-    "beginner": [
-      "Walking (30 mins)",
-      "Cycling (20 mins)",
-      "Jumping Jacks",
-      "Lunges",
-      {
-        "name": "Jogging",
-        "instructions": "Run at a steady, comfortable pace for a set duration or distance.",
-        "resources": "https://www.example.com/jogging-guide",
-        "video": "https://www.youtube.com/watch?v=example"
-      }
-    ],
-    "intermediate": ["Rowing Machine (20 mins)", "Swimming", "Jogging (30 mins)", "Box Step-Ups"],
-    "advanced": ["Stair Sprints", "CrossFit Circuit", "Spinning", "Trail Running"]
-  },
-  "strength": {
-    "beginner": [
-      {
-        "name": "Squats",
-        "instructions": "Stand with feet shoulder-width apart, lower your hips until thighs are parallel to the ground, then return to standing.",
-        "resources": "https://www.example.com/squats-guide",
-        "video": "https://www.youtube.com/watch?v=aclHkVaku9U",
-        "muscleGroup": "Legs"
-      },
-      {
-        "name": "Push-ups",
-        "instructions": "Start in a plank position, lower your body until your chest nearly touches the floor, then push back up.",
-        "resources": "https://www.example.com/pushups-guide",
-        "video": "https://www.youtube.com/watch?v=IODxDxX7oi4",
-        "muscleGroup": "Chest"
-      },
-      {
-        "name": "Plank",
-        "instructions": "Hold a plank position with your body straight and core engaged.",
-        "resources": "https://www.example.com/plank-guide",
-        "video": "https://www.youtube.com/watch?v=pSHjTRCQxIw",
-        "muscleGroup": "Core"
-      }
-    ],
-    "intermediate": [
-      {
-        "name": "Deadlifts",
-        "instructions": "Stand with feet hip-width apart, grip the barbell, and lift it by extending your hips and knees.",
-        "resources": "https://www.example.com/deadlifts-guide",
-        "video": "https://www.youtube.com/watch?v=ytGaGIn3SjE"
-      }
-    ]
+    "weight_loss": {
+      "beginner": [
+        {
+          "name": "Jump Rope",
+          "instructions": "Jump continuously at a steady pace for 1 minute. Rest 30 seconds. Repeat 3 times.",
+          "resources": [
+            "https://www.healthline.com/health/fitness-exercise/jump-rope-benefits"
+          ],
+          "video": "https://www.youtube.com/watch?v=1BZMdzg6nJ8",
+          "muscle_group": "Full Body"
+        },
+        {
+          "name": "Bodyweight Squats",
+          "instructions": "Stand with feet shoulder-width apart. Lower into a squat and return. Do 3 sets of 15 reps.",
+          "resources": [
+            "https://www.self.com/story/bodyweight-squat"
+          ],
+          "video": "https://www.youtube.com/watch?v=aclHkVaku9U",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Plank",
+          "instructions": "Hold a forearm plank for 30 seconds. Rest 30 seconds. Repeat 3 times.",
+          "resources": [
+            "https://www.verywellfit.com/the-plank-exercise-3120095"
+          ],
+          "video": "https://www.youtube.com/watch?v=pSHjTRCQxIw",
+          "muscle_group": "Core"
+        }
+      ],
+      "intermediate": [
+        {
+          "name": "Burpees",
+          "instructions": "Perform 10 burpees per set. Rest 30 seconds. Complete 3 sets.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-a-burpee-3498335"
+          ],
+          "video": "https://www.youtube.com/watch?v=TU8QYVW0gDU",
+          "muscle_group": "Full Body"
+        },
+        {
+          "name": "Kettlebell Swings",
+          "instructions": "Swing kettlebell from between legs to shoulder height. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-kettlebell-swing-3498359"
+          ],
+          "video": "https://www.youtube.com/watch?v=YSxgIcOXU7c",
+          "muscle_group": "Posterior Chain"
+        },
+        {
+          "name": "Jump Lunges",
+          "instructions": "Alternate legs while jumping. 3 sets of 10 reps per leg.",
+          "resources": [
+            "https://www.shape.com/fitness/videos/how-do-jump-lunges"
+          ],
+          "video": "https://www.youtube.com/watch?v=3XDriUn0udo",
+          "muscle_group": "Legs"
+        }
+      ],
+      "advanced": [
+        {
+          "name": "HIIT Sprints",
+          "instructions": "Sprint 30s, rest 30s, repeat for 20 minutes.",
+          "resources": [
+            "https://www.healthline.com/health/fitness-exercise/hiit-cardio"
+          ],
+          "video": "https://www.youtube.com/watch?v=ml6cT4AZdqI",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Battle Ropes",
+          "instructions": "Alternate arms for 30s, rest 30s. Repeat for 5 rounds.",
+          "resources": [
+            "https://www.menshealth.com/fitness/a19546609/battle-ropes-workout/"
+          ],
+          "video": "https://www.youtube.com/watch?v=cJqOz3as6D4",
+          "muscle_group": "Arms"
+        },
+        {
+          "name": "Box Jumps",
+          "instructions": "Jump onto a stable box. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.self.com/story/box-jump"
+          ],
+          "video": "https://www.youtube.com/watch?v=52r_UxyDTV4",
+          "muscle_group": "Legs"
+        }
+      ]
+    },
+    "muscle_gain": {
+      "beginner": [
+        {
+          "name": "Push-ups",
+          "instructions": "Keep body in straight line. Lower chest, then push back. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-a-push-up-3120082"
+          ],
+          "video": "https://www.youtube.com/watch?v=_l3ySVKYVJ8",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Bodyweight Rows",
+          "instructions": "Use a bar or table. Pull body up until chest touches bar. 3 sets of 8 reps.",
+          "resources": [
+            "https://www.nerdfitness.com/blog/beginner-body-weight-workout-burn-fat-build-muscle/"
+          ],
+          "video": "https://www.youtube.com/watch?v=2z8JmcrW-As",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Goblet Squats",
+          "instructions": "Hold a dumbbell at chest. Squat down and return. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.coachmag.co.uk/leg-exercises/7010/goblet-squat"
+          ],
+          "video": "https://www.youtube.com/watch?v=6xwGFn-J_Qw",
+          "muscle_group": "Legs"
+        }
+      ],
+      "intermediate": [
+        {
+          "name": "Bench Press",
+          "instructions": "Lower bar to chest and push back. 4 sets of 8 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-bench-press-3498346"
+          ],
+          "video": "https://www.youtube.com/watch?v=rT7DgCr-3pg",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Barbell Rows",
+          "instructions": "Pull barbell to lower chest. 4 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/barbell-deadlift"
+          ],
+          "video": "https://www.youtube.com/watch?v=vT2GjY_Umpw",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Overhead Press",
+          "instructions": "Press barbell overhead. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.stronglifts.com/overhead-press/"
+          ],
+          "video": "https://www.youtube.com/watch?v=CnBmiBqp-AI",
+          "muscle_group": "Shoulders"
+        }
+      ],
+      "advanced": [
+        {
+          "name": "Weighted Pull-ups",
+          "instructions": "Use weight belt or dumbbell. 3 sets of 6-8 reps.",
+          "resources": [
+            "https://www.muscleandstrength.com/exercises/weighted-pull-up.html"
+          ],
+          "video": "https://www.youtube.com/watch?v=iy7XP3K2oj4",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Clean and Press",
+          "instructions": "Clean barbell to shoulders, then press overhead. 4 sets of 5 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/clean-and-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=qkjyFyL9B6U",
+          "muscle_group": "Full Body"
+        },
+        {
+          "name": "Front Squats",
+          "instructions": "Hold bar on shoulders, squat down. 4 sets of 8 reps.",
+          "resources": [
+            "https://www.verywellfit.com/front-squat-technique-3120094"
+          ],
+          "video": "https://www.youtube.com/watch?v=tlfGU8QxKCs",
+          "muscle_group": "Legs"
+        }
+      ]
+    },
+    "endurance": {
+      "beginner": [
+        {
+          "name": "Walking",
+          "instructions": "Walk at a brisk pace for 30 minutes.",
+          "resources": [
+            "https://www.heart.org/en/healthy-living/fitness/walking"
+          ],
+          "video": "https://www.youtube.com/watch?v=I4nY6gLg-Fs"
+        },
+        {
+          "name": "Cycling",
+          "instructions": "Cycle at moderate pace for 20\u201330 minutes.",
+          "resources": [
+            "https://www.bicycling.com/training/a20025363/how-to-start-cycling/"
+          ],
+          "video": "https://www.youtube.com/watch?v=FBgRzD1gJmA"
+        },
+        {
+          "name": "Jumping Jacks",
+          "instructions": "Do jumping jacks for 1 minute. Rest 30s. Repeat 4 times.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-jumping-jacks-3498306"
+          ],
+          "video": "https://www.youtube.com/watch?v=c4DAnQ6DtF8",
+          "muscle_group": "Full Body"
+        }
+      ],
+      "intermediate": [
+        {
+          "name": "Rowing Machine",
+          "instructions": "Row at steady pace for 20 minutes.",
+          "resources": [
+            "https://www.concept2.com/indoor-rowers/training/technique-videos"
+          ],
+          "video": "https://www.youtube.com/watch?v=I_Im2JtW1fM"
+        },
+        {
+          "name": "Swimming",
+          "instructions": "Swim laps for 30 minutes with intervals every 5 minutes.",
+          "resources": [
+            "https://www.swimming.org/swimengland/fitness-training/"
+          ],
+          "video": "https://www.youtube.com/watch?v=sYN_3bp1QIU",
+          "muscle_group": "Full Body"
+        },
+        {
+          "name": "Jogging",
+          "instructions": "Jog at moderate pace for 30 minutes.",
+          "resources": [
+            "https://www.runnersworld.com/uk/training/beginners/a761681/how-to-start-running/"
+          ],
+          "video": "https://www.youtube.com/watch?v=cB-KZ1xTj5U"
+        }
+      ],
+      "advanced": [
+        {
+          "name": "Stair Sprints",
+          "instructions": "Sprint up stairs for 20s, walk down. Repeat for 10 rounds.",
+          "resources": [
+            "https://www.shape.com/fitness/cardio/stair-workout"
+          ],
+          "video": "https://www.youtube.com/watch?v=sXf6dRn2E2M",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "CrossFit Circuit",
+          "instructions": "Do a 20-minute AMRAP of burpees, squats, and sit-ups.",
+          "resources": [
+            "https://www.crossfit.com/workout"
+          ],
+          "video": "https://www.youtube.com/watch?v=ml6cT4AZdqI",
+          "muscle_group": "Full Body"
+        },
+        {
+          "name": "Trail Running",
+          "instructions": "Run on trail terrain for 45 minutes.",
+          "resources": [
+            "https://www.rei.com/learn/expert-advice/trail-running.html"
+          ],
+          "video": "https://www.youtube.com/watch?v=FDFRZYd9gS8",
+          "muscle_group": "Legs"
+        }
+      ]
+    }
   }
-}
+  
