@@ -1,0 +1,17 @@
+{
+  "weight_loss": {
+    "beginner": ["Jump Rope", "Bodyweight Squats", "Mountain Climbers", "Plank", "Jogging (20 mins)"],
+    "intermediate": ["Burpees", "Kettlebell Swings", "Jump Lunges", "Cycling (30 mins)"],
+    "advanced": ["HIIT Sprints", "Battle Ropes", "Box Jumps", "Tire Flips"]
+  },
+  "muscle_gain": {
+    "beginner": ["Push-ups", "Bodyweight Rows", "Dumbbell Curls", "Goblet Squats"],
+    "intermediate": ["Bench Press", "Barbell Rows", "Overhead Press", "Deadlifts"],
+    "advanced": ["Weighted Pull-ups", "Clean and Press", "Front Squats", "Barbell Hip Thrusts"]
+  },
+  "endurance": {
+    "beginner": ["Walking (30 mins)", "Cycling (20 mins)", "Jumping Jacks", "Lunges"],
+    "intermediate": ["Rowing Machine (20 mins)", "Swimming", "Jogging (30 mins)", "Box Step-Ups"],
+    "advanced": ["Stair Sprints", "CrossFit Circuit", "Spinning", "Trail Running"]
+  }
+}
