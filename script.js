@@ -86,26 +86,46 @@ function displaySchedule(plan) {
   const row = document.createElement('div');
   row.style.display = 'flex';
   row.style.flexWrap = 'wrap';
-  row.style.gap = '10px';
+  row.style.gap = '20px';
+  row.style.justifyContent = 'center';
 
   plan.forEach(day => {
     const dayDiv = document.createElement('div');
-    dayDiv.style.flex = '1';
-    dayDiv.style.padding = '10px';
-    dayDiv.style.border = '1px solid #ccc';
-    dayDiv.style.borderRadius = '4px';
-    dayDiv.style.backgroundColor = '#f9f9f9';
+    dayDiv.style.flex = '1 1 calc(30% - 20px)';
+    dayDiv.style.padding = '20px';
+    dayDiv.style.border = '1px solid #ddd';
+    dayDiv.style.borderRadius = '8px';
+    dayDiv.style.backgroundColor = '#ffffff';
+    dayDiv.style.boxShadow = '0 4px 6px rgba(0, 0, 0, 0.1)';
+    dayDiv.style.transition = 'transform 0.2s, box-shadow 0.2s';
+    dayDiv.style.maxWidth = '300px';
+
+    dayDiv.addEventListener('mouseover', () => {
+      dayDiv.style.transform = 'scale(1.025)';
+      dayDiv.style.boxShadow = '0 6px 10px rgba(0, 0, 0, 0.15)';
+    });
+
+    dayDiv.addEventListener('mouseout', () => {
+      dayDiv.style.transform = 'scale(1)';
+      dayDiv.style.boxShadow = '0 4px 6px rgba(0, 0, 0, 0.1)';
+    });
 
     const dayContent = `
-      <h3>${day.day}</h3>
-      <ul>
+      <h3 style="font-size: 1.5rem; color: #333; margin-bottom: 10px;">${day.day}</h3>
+      <ul style="list-style: none; padding: 0; margin: 0;">
         ${day.exercises.map(exercise => `
-          <li>
-            <strong>${exercise.name}</strong>
-            <p>${exercise.instructions}</p>
-            <p><strong>Muscle Group:</strong> ${exercise.muscle_group || 'N/A'}</p>
-            <a href="${exercise.resources[0]}" target="_blank">Learn More</a><br>
-            <a href="${exercise.video}" target="_blank">Watch Video</a>
+          <li style="margin-bottom: 15px;">
+            <strong style="font-size: 1.1rem; color: #555;">${exercise.name}</strong>
+            <p style="font-size: 0.9rem; color: #666; margin: 5px 0;">${exercise.instructions}</p>
+            <p style="font-size: 0.9rem; color: #666; margin: 5px 0;">
+              <strong>Muscle Group:</strong> ${exercise.muscle_group || 'N/A'}
+            </p>
+            <a href="${exercise.resources[0]}" target="_blank" style="color: #007BFF; text-decoration: none; font-size: 0.9rem;">
+              &#128214; Learn More
+            </a><br>
+            <a href="${exercise.video}" target="_blank" style="color: #007BFF; text-decoration: none; font-size: 0.9rem;">
+              &#9654; Watch Video
+            </a>
           </li>
         `).join('')}
       </ul>
