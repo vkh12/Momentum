@@ -10,8 +10,52 @@
     "advanced": ["Weighted Pull-ups", "Clean and Press", "Front Squats", "Barbell Hip Thrusts"]
   },
   "endurance": {
-    "beginner": ["Walking (30 mins)", "Cycling (20 mins)", "Jumping Jacks", "Lunges"],
+    "beginner": [
+      "Walking (30 mins)",
+      "Cycling (20 mins)",
+      "Jumping Jacks",
+      "Lunges",
+      {
+        "name": "Jogging",
+        "instructions": "Run at a steady, comfortable pace for a set duration or distance.",
+        "resources": "https://www.example.com/jogging-guide",
+        "video": "https://www.youtube.com/watch?v=example"
+      }
+    ],
     "intermediate": ["Rowing Machine (20 mins)", "Swimming", "Jogging (30 mins)", "Box Step-Ups"],
     "advanced": ["Stair Sprints", "CrossFit Circuit", "Spinning", "Trail Running"]
+  },
+  "strength": {
+    "beginner": [
+      {
+        "name": "Squats",
+        "instructions": "Stand with feet shoulder-width apart, lower your hips until thighs are parallel to the ground, then return to standing.",
+        "resources": "https://www.example.com/squats-guide",
+        "video": "https://www.youtube.com/watch?v=aclHkVaku9U",
+        "muscleGroup": "Legs"
+      },
+      {
+        "name": "Push-ups",
+        "instructions": "Start in a plank position, lower your body until your chest nearly touches the floor, then push back up.",
+        "resources": "https://www.example.com/pushups-guide",
+        "video": "https://www.youtube.com/watch?v=IODxDxX7oi4",
+        "muscleGroup": "Chest"
+      },
+      {
+        "name": "Plank",
+        "instructions": "Hold a plank position with your body straight and core engaged.",
+        "resources": "https://www.example.com/plank-guide",
+        "video": "https://www.youtube.com/watch?v=pSHjTRCQxIw",
+        "muscleGroup": "Core"
+      }
+    ],
+    "intermediate": [
+      {
+        "name": "Deadlifts",
+        "instructions": "Stand with feet hip-width apart, grip the barbell, and lift it by extending your hips and knees.",
+        "resources": "https://www.example.com/deadlifts-guide",
+        "video": "https://www.youtube.com/watch?v=ytGaGIn3SjE"
+      }
+    ]
   }
 }
