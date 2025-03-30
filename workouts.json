@@ -27,6 +27,276 @@
           ],
           "video": "https://www.youtube.com/watch?v=pSHjTRCQxIw",
           "muscle_group": "Core"
+        },
+        {
+          "name": "Bulgarian Split Squats",
+          "instructions": "Place one foot behind you on a bench, squat down on front leg. 3 sets of 10 reps each leg.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bulgarian-split-squat-5186950"
+          ],
+          "video": "https://www.youtube.com/watch?v=2C-uNgKwPLE",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Leg Press",
+          "instructions": "Push the platform with your legs. Do 3 sets of 12 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/leg-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=IZxyjW7MPJQ",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Wall Sits",
+          "instructions": "Hold a squat position against a wall for 30-60 seconds. Repeat 3 times.",
+          "resources": [
+            "https://www.verywellfit.com/wall-sit-exercise-3120097"
+          ],
+          "video": "https://www.youtube.com/watch?v=-cdph8hv0O0",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Russian Twists",
+          "instructions": "Sit, lean back, twist torso side to side with or without weight. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-russian-twist-4589305"
+          ],
+          "video": "https://www.youtube.com/watch?v=wkD8rjkodUI",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Leg Raises",
+          "instructions": "Lie down and lift legs up to 90\u00b0. Lower without touching ground. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-leg-raises-4589304"
+          ],
+          "video": "https://www.youtube.com/watch?v=l4kQd9eWclE",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Bicycle Crunches",
+          "instructions": "Lie back, alternate elbow to opposite knee. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bicycle-crunch-4589306"
+          ],
+          "video": "https://www.youtube.com/watch?v=9FGilxCbdz8",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Incline Push-ups",
+          "instructions": "Push up with hands on a bench. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/incline-push-up-exercise-4589307"
+          ],
+          "video": "https://www.youtube.com/watch?v=8RMUdDkQfsc",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Chest Dips",
+          "instructions": "Lower and raise your body on dip bars. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/chest-dips"
+          ],
+          "video": "https://www.youtube.com/watch?v=2z8JmcrW-As",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Incline Bench Press",
+          "instructions": "Press bar from upper chest. 3 sets of 8 reps.",
+          "resources": [
+            "https://www.verywellfit.com/incline-bench-press-4589308"
+          ],
+          "video": "https://www.youtube.com/watch?v=8iPEnn-ltC8",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Lat Pulldown",
+          "instructions": "Pull bar to upper chest. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/lat-pulldown"
+          ],
+          "video": "https://www.youtube.com/watch?v=CAwf7n6Luuc",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Reverse Flys",
+          "instructions": "Bend over, raise dumbbells sideways. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-reverse-fly-4589309"
+          ],
+          "video": "https://www.youtube.com/watch?v=1nP7Vf0zUto",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Superman Exercise",
+          "instructions": "Lie face down and raise arms and legs. Hold 5s, repeat 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/the-superman-exercise-4589310"
+          ],
+          "video": "https://www.youtube.com/watch?v=z6PJMT2y8GQ",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Lateral Raises",
+          "instructions": "Raise dumbbells to the sides. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-lateral-raises-4589311"
+          ],
+          "video": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Front Raises",
+          "instructions": "Lift dumbbells in front to shoulder height. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/front-raise-exercise-4589312"
+          ],
+          "video": "https://www.youtube.com/watch?v=-t7fuZ0KhDA",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Arnold Press",
+          "instructions": "Rotate dumbbells as you press overhead. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/arnold-dumbbell-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=vj2w851ZHRM",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Bulgarian Split Squats",
+          "instructions": "Place one foot behind you on a bench, squat down on front leg. 3 sets of 10 reps each leg.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bulgarian-split-squat-5186950"
+          ],
+          "video": "https://www.youtube.com/watch?v=2C-uNgKwPLE",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Leg Press",
+          "instructions": "Push the platform with your legs. Do 3 sets of 12 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/leg-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=IZxyjW7MPJQ",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Wall Sits",
+          "instructions": "Hold a squat position against a wall for 30-60 seconds. Repeat 3 times.",
+          "resources": [
+            "https://www.verywellfit.com/wall-sit-exercise-3120097"
+          ],
+          "video": "https://www.youtube.com/watch?v=-cdph8hv0O0",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Russian Twists",
+          "instructions": "Sit, lean back, twist torso side to side with or without weight. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-russian-twist-4589305"
+          ],
+          "video": "https://www.youtube.com/watch?v=wkD8rjkodUI",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Leg Raises",
+          "instructions": "Lie down and lift legs up to 90\u00b0. Lower without touching ground. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-leg-raises-4589304"
+          ],
+          "video": "https://www.youtube.com/watch?v=l4kQd9eWclE",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Bicycle Crunches",
+          "instructions": "Lie back, alternate elbow to opposite knee. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bicycle-crunch-4589306"
+          ],
+          "video": "https://www.youtube.com/watch?v=9FGilxCbdz8",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Incline Dumbbell Press",
+          "instructions": "Lie on an incline bench and press dumbbells upward. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/incline-dumbbell-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=8iPEnn-ltC8",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Chest Fly",
+          "instructions": "Use dumbbells or a machine to perform flys. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-dumbbell-chest-fly-3498290"
+          ],
+          "video": "https://www.youtube.com/watch?v=eozdVDA78K0",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Push-up to Shoulder Tap",
+          "instructions": "Perform a push-up, then tap each shoulder. 3 sets of 10 reps.",
+          "resources": [
+            "https://greatist.com/fitness/how-to-do-push-up-shoulder-tap"
+          ],
+          "video": "https://www.youtube.com/watch?v=TBzMaJEwL9g",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Lat Pulldown",
+          "instructions": "Pull the bar down to your chest. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/lat-pulldown"
+          ],
+          "video": "https://www.youtube.com/watch?v=CAwf7n6Luuc",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Dumbbell Rows",
+          "instructions": "Row dumbbell toward waist. 3 sets of 10 reps per arm.",
+          "resources": [
+            "https://www.verywellfit.com/dumbbell-row-exercise-4589308"
+          ],
+          "video": "https://www.youtube.com/watch?v=pYcpY20QaE8",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Superman Exercise",
+          "instructions": "Lie face down and lift arms and legs. Hold for 30 seconds. Repeat 3 times.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-superman-exercise-4686206"
+          ],
+          "video": "https://www.youtube.com/watch?v=z6PJMT2y8GQ",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Lateral Raises",
+          "instructions": "Raise dumbbells to sides until shoulder level. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-lateral-raises-4589307"
+          ],
+          "video": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Front Raises",
+          "instructions": "Lift dumbbells in front to shoulder level. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-front-raise-4589304"
+          ],
+          "video": "https://www.youtube.com/watch?v=-t7fuZ0KhDA",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Arnold Press",
+          "instructions": "Rotate dumbbells from front to overhead press. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/arnold-dumbbell-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=vj2w851ZHRM",
+          "muscle_group": "Shoulders"
         }
       ],
       "intermediate": [
@@ -56,6 +326,276 @@
           ],
           "video": "https://www.youtube.com/watch?v=3XDriUn0udo",
           "muscle_group": "Legs"
+        },
+        {
+          "name": "Bulgarian Split Squats",
+          "instructions": "Place one foot behind you on a bench, squat down on front leg. 3 sets of 10 reps each leg.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bulgarian-split-squat-5186950"
+          ],
+          "video": "https://www.youtube.com/watch?v=2C-uNgKwPLE",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Leg Press",
+          "instructions": "Push the platform with your legs. Do 3 sets of 12 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/leg-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=IZxyjW7MPJQ",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Wall Sits",
+          "instructions": "Hold a squat position against a wall for 30-60 seconds. Repeat 3 times.",
+          "resources": [
+            "https://www.verywellfit.com/wall-sit-exercise-3120097"
+          ],
+          "video": "https://www.youtube.com/watch?v=-cdph8hv0O0",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Russian Twists",
+          "instructions": "Sit, lean back, twist torso side to side with or without weight. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-russian-twist-4589305"
+          ],
+          "video": "https://www.youtube.com/watch?v=wkD8rjkodUI",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Leg Raises",
+          "instructions": "Lie down and lift legs up to 90\u00b0. Lower without touching ground. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-leg-raises-4589304"
+          ],
+          "video": "https://www.youtube.com/watch?v=l4kQd9eWclE",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Bicycle Crunches",
+          "instructions": "Lie back, alternate elbow to opposite knee. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bicycle-crunch-4589306"
+          ],
+          "video": "https://www.youtube.com/watch?v=9FGilxCbdz8",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Incline Push-ups",
+          "instructions": "Push up with hands on a bench. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/incline-push-up-exercise-4589307"
+          ],
+          "video": "https://www.youtube.com/watch?v=8RMUdDkQfsc",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Chest Dips",
+          "instructions": "Lower and raise your body on dip bars. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/chest-dips"
+          ],
+          "video": "https://www.youtube.com/watch?v=2z8JmcrW-As",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Incline Bench Press",
+          "instructions": "Press bar from upper chest. 3 sets of 8 reps.",
+          "resources": [
+            "https://www.verywellfit.com/incline-bench-press-4589308"
+          ],
+          "video": "https://www.youtube.com/watch?v=8iPEnn-ltC8",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Lat Pulldown",
+          "instructions": "Pull bar to upper chest. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/lat-pulldown"
+          ],
+          "video": "https://www.youtube.com/watch?v=CAwf7n6Luuc",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Reverse Flys",
+          "instructions": "Bend over, raise dumbbells sideways. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-reverse-fly-4589309"
+          ],
+          "video": "https://www.youtube.com/watch?v=1nP7Vf0zUto",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Superman Exercise",
+          "instructions": "Lie face down and raise arms and legs. Hold 5s, repeat 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/the-superman-exercise-4589310"
+          ],
+          "video": "https://www.youtube.com/watch?v=z6PJMT2y8GQ",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Lateral Raises",
+          "instructions": "Raise dumbbells to the sides. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-lateral-raises-4589311"
+          ],
+          "video": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Front Raises",
+          "instructions": "Lift dumbbells in front to shoulder height. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/front-raise-exercise-4589312"
+          ],
+          "video": "https://www.youtube.com/watch?v=-t7fuZ0KhDA",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Arnold Press",
+          "instructions": "Rotate dumbbells as you press overhead. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/arnold-dumbbell-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=vj2w851ZHRM",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Bulgarian Split Squats",
+          "instructions": "Place one foot behind you on a bench, squat down on front leg. 3 sets of 10 reps each leg.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bulgarian-split-squat-5186950"
+          ],
+          "video": "https://www.youtube.com/watch?v=2C-uNgKwPLE",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Leg Press",
+          "instructions": "Push the platform with your legs. Do 3 sets of 12 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/leg-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=IZxyjW7MPJQ",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Wall Sits",
+          "instructions": "Hold a squat position against a wall for 30-60 seconds. Repeat 3 times.",
+          "resources": [
+            "https://www.verywellfit.com/wall-sit-exercise-3120097"
+          ],
+          "video": "https://www.youtube.com/watch?v=-cdph8hv0O0",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Russian Twists",
+          "instructions": "Sit, lean back, twist torso side to side with or without weight. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-russian-twist-4589305"
+          ],
+          "video": "https://www.youtube.com/watch?v=wkD8rjkodUI",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Leg Raises",
+          "instructions": "Lie down and lift legs up to 90\u00b0. Lower without touching ground. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-leg-raises-4589304"
+          ],
+          "video": "https://www.youtube.com/watch?v=l4kQd9eWclE",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Bicycle Crunches",
+          "instructions": "Lie back, alternate elbow to opposite knee. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bicycle-crunch-4589306"
+          ],
+          "video": "https://www.youtube.com/watch?v=9FGilxCbdz8",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Incline Dumbbell Press",
+          "instructions": "Lie on an incline bench and press dumbbells upward. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/incline-dumbbell-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=8iPEnn-ltC8",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Chest Fly",
+          "instructions": "Use dumbbells or a machine to perform flys. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-dumbbell-chest-fly-3498290"
+          ],
+          "video": "https://www.youtube.com/watch?v=eozdVDA78K0",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Push-up to Shoulder Tap",
+          "instructions": "Perform a push-up, then tap each shoulder. 3 sets of 10 reps.",
+          "resources": [
+            "https://greatist.com/fitness/how-to-do-push-up-shoulder-tap"
+          ],
+          "video": "https://www.youtube.com/watch?v=TBzMaJEwL9g",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Lat Pulldown",
+          "instructions": "Pull the bar down to your chest. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/lat-pulldown"
+          ],
+          "video": "https://www.youtube.com/watch?v=CAwf7n6Luuc",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Dumbbell Rows",
+          "instructions": "Row dumbbell toward waist. 3 sets of 10 reps per arm.",
+          "resources": [
+            "https://www.verywellfit.com/dumbbell-row-exercise-4589308"
+          ],
+          "video": "https://www.youtube.com/watch?v=pYcpY20QaE8",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Superman Exercise",
+          "instructions": "Lie face down and lift arms and legs. Hold for 30 seconds. Repeat 3 times.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-superman-exercise-4686206"
+          ],
+          "video": "https://www.youtube.com/watch?v=z6PJMT2y8GQ",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Lateral Raises",
+          "instructions": "Raise dumbbells to sides until shoulder level. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-lateral-raises-4589307"
+          ],
+          "video": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Front Raises",
+          "instructions": "Lift dumbbells in front to shoulder level. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-front-raise-4589304"
+          ],
+          "video": "https://www.youtube.com/watch?v=-t7fuZ0KhDA",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Arnold Press",
+          "instructions": "Rotate dumbbells from front to overhead press. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/arnold-dumbbell-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=vj2w851ZHRM",
+          "muscle_group": "Shoulders"
         }
       ],
       "advanced": [
@@ -85,6 +625,276 @@
           ],
           "video": "https://www.youtube.com/watch?v=52r_UxyDTV4",
           "muscle_group": "Legs"
+        },
+        {
+          "name": "Bulgarian Split Squats",
+          "instructions": "Place one foot behind you on a bench, squat down on front leg. 3 sets of 10 reps each leg.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bulgarian-split-squat-5186950"
+          ],
+          "video": "https://www.youtube.com/watch?v=2C-uNgKwPLE",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Leg Press",
+          "instructions": "Push the platform with your legs. Do 3 sets of 12 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/leg-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=IZxyjW7MPJQ",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Wall Sits",
+          "instructions": "Hold a squat position against a wall for 30-60 seconds. Repeat 3 times.",
+          "resources": [
+            "https://www.verywellfit.com/wall-sit-exercise-3120097"
+          ],
+          "video": "https://www.youtube.com/watch?v=-cdph8hv0O0",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Russian Twists",
+          "instructions": "Sit, lean back, twist torso side to side with or without weight. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-russian-twist-4589305"
+          ],
+          "video": "https://www.youtube.com/watch?v=wkD8rjkodUI",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Leg Raises",
+          "instructions": "Lie down and lift legs up to 90\u00b0. Lower without touching ground. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-leg-raises-4589304"
+          ],
+          "video": "https://www.youtube.com/watch?v=l4kQd9eWclE",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Bicycle Crunches",
+          "instructions": "Lie back, alternate elbow to opposite knee. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bicycle-crunch-4589306"
+          ],
+          "video": "https://www.youtube.com/watch?v=9FGilxCbdz8",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Incline Push-ups",
+          "instructions": "Push up with hands on a bench. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/incline-push-up-exercise-4589307"
+          ],
+          "video": "https://www.youtube.com/watch?v=8RMUdDkQfsc",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Chest Dips",
+          "instructions": "Lower and raise your body on dip bars. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/chest-dips"
+          ],
+          "video": "https://www.youtube.com/watch?v=2z8JmcrW-As",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Incline Bench Press",
+          "instructions": "Press bar from upper chest. 3 sets of 8 reps.",
+          "resources": [
+            "https://www.verywellfit.com/incline-bench-press-4589308"
+          ],
+          "video": "https://www.youtube.com/watch?v=8iPEnn-ltC8",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Lat Pulldown",
+          "instructions": "Pull bar to upper chest. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/lat-pulldown"
+          ],
+          "video": "https://www.youtube.com/watch?v=CAwf7n6Luuc",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Reverse Flys",
+          "instructions": "Bend over, raise dumbbells sideways. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-reverse-fly-4589309"
+          ],
+          "video": "https://www.youtube.com/watch?v=1nP7Vf0zUto",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Superman Exercise",
+          "instructions": "Lie face down and raise arms and legs. Hold 5s, repeat 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/the-superman-exercise-4589310"
+          ],
+          "video": "https://www.youtube.com/watch?v=z6PJMT2y8GQ",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Lateral Raises",
+          "instructions": "Raise dumbbells to the sides. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-lateral-raises-4589311"
+          ],
+          "video": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Front Raises",
+          "instructions": "Lift dumbbells in front to shoulder height. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/front-raise-exercise-4589312"
+          ],
+          "video": "https://www.youtube.com/watch?v=-t7fuZ0KhDA",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Arnold Press",
+          "instructions": "Rotate dumbbells as you press overhead. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/arnold-dumbbell-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=vj2w851ZHRM",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Bulgarian Split Squats",
+          "instructions": "Place one foot behind you on a bench, squat down on front leg. 3 sets of 10 reps each leg.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bulgarian-split-squat-5186950"
+          ],
+          "video": "https://www.youtube.com/watch?v=2C-uNgKwPLE",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Leg Press",
+          "instructions": "Push the platform with your legs. Do 3 sets of 12 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/leg-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=IZxyjW7MPJQ",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Wall Sits",
+          "instructions": "Hold a squat position against a wall for 30-60 seconds. Repeat 3 times.",
+          "resources": [
+            "https://www.verywellfit.com/wall-sit-exercise-3120097"
+          ],
+          "video": "https://www.youtube.com/watch?v=-cdph8hv0O0",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Russian Twists",
+          "instructions": "Sit, lean back, twist torso side to side with or without weight. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-russian-twist-4589305"
+          ],
+          "video": "https://www.youtube.com/watch?v=wkD8rjkodUI",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Leg Raises",
+          "instructions": "Lie down and lift legs up to 90\u00b0. Lower without touching ground. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-leg-raises-4589304"
+          ],
+          "video": "https://www.youtube.com/watch?v=l4kQd9eWclE",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Bicycle Crunches",
+          "instructions": "Lie back, alternate elbow to opposite knee. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bicycle-crunch-4589306"
+          ],
+          "video": "https://www.youtube.com/watch?v=9FGilxCbdz8",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Incline Dumbbell Press",
+          "instructions": "Lie on an incline bench and press dumbbells upward. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/incline-dumbbell-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=8iPEnn-ltC8",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Chest Fly",
+          "instructions": "Use dumbbells or a machine to perform flys. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-dumbbell-chest-fly-3498290"
+          ],
+          "video": "https://www.youtube.com/watch?v=eozdVDA78K0",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Push-up to Shoulder Tap",
+          "instructions": "Perform a push-up, then tap each shoulder. 3 sets of 10 reps.",
+          "resources": [
+            "https://greatist.com/fitness/how-to-do-push-up-shoulder-tap"
+          ],
+          "video": "https://www.youtube.com/watch?v=TBzMaJEwL9g",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Lat Pulldown",
+          "instructions": "Pull the bar down to your chest. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/lat-pulldown"
+          ],
+          "video": "https://www.youtube.com/watch?v=CAwf7n6Luuc",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Dumbbell Rows",
+          "instructions": "Row dumbbell toward waist. 3 sets of 10 reps per arm.",
+          "resources": [
+            "https://www.verywellfit.com/dumbbell-row-exercise-4589308"
+          ],
+          "video": "https://www.youtube.com/watch?v=pYcpY20QaE8",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Superman Exercise",
+          "instructions": "Lie face down and lift arms and legs. Hold for 30 seconds. Repeat 3 times.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-superman-exercise-4686206"
+          ],
+          "video": "https://www.youtube.com/watch?v=z6PJMT2y8GQ",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Lateral Raises",
+          "instructions": "Raise dumbbells to sides until shoulder level. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-lateral-raises-4589307"
+          ],
+          "video": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Front Raises",
+          "instructions": "Lift dumbbells in front to shoulder level. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-front-raise-4589304"
+          ],
+          "video": "https://www.youtube.com/watch?v=-t7fuZ0KhDA",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Arnold Press",
+          "instructions": "Rotate dumbbells from front to overhead press. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/arnold-dumbbell-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=vj2w851ZHRM",
+          "muscle_group": "Shoulders"
         }
       ]
     },
@@ -116,6 +926,276 @@
           ],
           "video": "https://www.youtube.com/watch?v=6xwGFn-J_Qw",
           "muscle_group": "Legs"
+        },
+        {
+          "name": "Bulgarian Split Squats",
+          "instructions": "Place one foot behind you on a bench, squat down on front leg. 3 sets of 10 reps each leg.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bulgarian-split-squat-5186950"
+          ],
+          "video": "https://www.youtube.com/watch?v=2C-uNgKwPLE",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Leg Press",
+          "instructions": "Push the platform with your legs. Do 3 sets of 12 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/leg-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=IZxyjW7MPJQ",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Wall Sits",
+          "instructions": "Hold a squat position against a wall for 30-60 seconds. Repeat 3 times.",
+          "resources": [
+            "https://www.verywellfit.com/wall-sit-exercise-3120097"
+          ],
+          "video": "https://www.youtube.com/watch?v=-cdph8hv0O0",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Russian Twists",
+          "instructions": "Sit, lean back, twist torso side to side with or without weight. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-russian-twist-4589305"
+          ],
+          "video": "https://www.youtube.com/watch?v=wkD8rjkodUI",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Leg Raises",
+          "instructions": "Lie down and lift legs up to 90\u00b0. Lower without touching ground. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-leg-raises-4589304"
+          ],
+          "video": "https://www.youtube.com/watch?v=l4kQd9eWclE",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Bicycle Crunches",
+          "instructions": "Lie back, alternate elbow to opposite knee. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bicycle-crunch-4589306"
+          ],
+          "video": "https://www.youtube.com/watch?v=9FGilxCbdz8",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Incline Push-ups",
+          "instructions": "Push up with hands on a bench. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/incline-push-up-exercise-4589307"
+          ],
+          "video": "https://www.youtube.com/watch?v=8RMUdDkQfsc",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Chest Dips",
+          "instructions": "Lower and raise your body on dip bars. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/chest-dips"
+          ],
+          "video": "https://www.youtube.com/watch?v=2z8JmcrW-As",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Incline Bench Press",
+          "instructions": "Press bar from upper chest. 3 sets of 8 reps.",
+          "resources": [
+            "https://www.verywellfit.com/incline-bench-press-4589308"
+          ],
+          "video": "https://www.youtube.com/watch?v=8iPEnn-ltC8",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Lat Pulldown",
+          "instructions": "Pull bar to upper chest. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/lat-pulldown"
+          ],
+          "video": "https://www.youtube.com/watch?v=CAwf7n6Luuc",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Reverse Flys",
+          "instructions": "Bend over, raise dumbbells sideways. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-reverse-fly-4589309"
+          ],
+          "video": "https://www.youtube.com/watch?v=1nP7Vf0zUto",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Superman Exercise",
+          "instructions": "Lie face down and raise arms and legs. Hold 5s, repeat 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/the-superman-exercise-4589310"
+          ],
+          "video": "https://www.youtube.com/watch?v=z6PJMT2y8GQ",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Lateral Raises",
+          "instructions": "Raise dumbbells to the sides. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-lateral-raises-4589311"
+          ],
+          "video": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Front Raises",
+          "instructions": "Lift dumbbells in front to shoulder height. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/front-raise-exercise-4589312"
+          ],
+          "video": "https://www.youtube.com/watch?v=-t7fuZ0KhDA",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Arnold Press",
+          "instructions": "Rotate dumbbells as you press overhead. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/arnold-dumbbell-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=vj2w851ZHRM",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Bulgarian Split Squats",
+          "instructions": "Place one foot behind you on a bench, squat down on front leg. 3 sets of 10 reps each leg.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bulgarian-split-squat-5186950"
+          ],
+          "video": "https://www.youtube.com/watch?v=2C-uNgKwPLE",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Leg Press",
+          "instructions": "Push the platform with your legs. Do 3 sets of 12 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/leg-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=IZxyjW7MPJQ",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Wall Sits",
+          "instructions": "Hold a squat position against a wall for 30-60 seconds. Repeat 3 times.",
+          "resources": [
+            "https://www.verywellfit.com/wall-sit-exercise-3120097"
+          ],
+          "video": "https://www.youtube.com/watch?v=-cdph8hv0O0",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Russian Twists",
+          "instructions": "Sit, lean back, twist torso side to side with or without weight. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-russian-twist-4589305"
+          ],
+          "video": "https://www.youtube.com/watch?v=wkD8rjkodUI",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Leg Raises",
+          "instructions": "Lie down and lift legs up to 90\u00b0. Lower without touching ground. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-leg-raises-4589304"
+          ],
+          "video": "https://www.youtube.com/watch?v=l4kQd9eWclE",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Bicycle Crunches",
+          "instructions": "Lie back, alternate elbow to opposite knee. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bicycle-crunch-4589306"
+          ],
+          "video": "https://www.youtube.com/watch?v=9FGilxCbdz8",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Incline Dumbbell Press",
+          "instructions": "Lie on an incline bench and press dumbbells upward. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/incline-dumbbell-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=8iPEnn-ltC8",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Chest Fly",
+          "instructions": "Use dumbbells or a machine to perform flys. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-dumbbell-chest-fly-3498290"
+          ],
+          "video": "https://www.youtube.com/watch?v=eozdVDA78K0",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Push-up to Shoulder Tap",
+          "instructions": "Perform a push-up, then tap each shoulder. 3 sets of 10 reps.",
+          "resources": [
+            "https://greatist.com/fitness/how-to-do-push-up-shoulder-tap"
+          ],
+          "video": "https://www.youtube.com/watch?v=TBzMaJEwL9g",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Lat Pulldown",
+          "instructions": "Pull the bar down to your chest. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/lat-pulldown"
+          ],
+          "video": "https://www.youtube.com/watch?v=CAwf7n6Luuc",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Dumbbell Rows",
+          "instructions": "Row dumbbell toward waist. 3 sets of 10 reps per arm.",
+          "resources": [
+            "https://www.verywellfit.com/dumbbell-row-exercise-4589308"
+          ],
+          "video": "https://www.youtube.com/watch?v=pYcpY20QaE8",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Superman Exercise",
+          "instructions": "Lie face down and lift arms and legs. Hold for 30 seconds. Repeat 3 times.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-superman-exercise-4686206"
+          ],
+          "video": "https://www.youtube.com/watch?v=z6PJMT2y8GQ",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Lateral Raises",
+          "instructions": "Raise dumbbells to sides until shoulder level. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-lateral-raises-4589307"
+          ],
+          "video": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Front Raises",
+          "instructions": "Lift dumbbells in front to shoulder level. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-front-raise-4589304"
+          ],
+          "video": "https://www.youtube.com/watch?v=-t7fuZ0KhDA",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Arnold Press",
+          "instructions": "Rotate dumbbells from front to overhead press. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/arnold-dumbbell-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=vj2w851ZHRM",
+          "muscle_group": "Shoulders"
         }
       ],
       "intermediate": [
@@ -144,6 +1224,276 @@
             "https://www.stronglifts.com/overhead-press/"
           ],
           "video": "https://www.youtube.com/watch?v=CnBmiBqp-AI",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Bulgarian Split Squats",
+          "instructions": "Place one foot behind you on a bench, squat down on front leg. 3 sets of 10 reps each leg.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bulgarian-split-squat-5186950"
+          ],
+          "video": "https://www.youtube.com/watch?v=2C-uNgKwPLE",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Leg Press",
+          "instructions": "Push the platform with your legs. Do 3 sets of 12 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/leg-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=IZxyjW7MPJQ",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Wall Sits",
+          "instructions": "Hold a squat position against a wall for 30-60 seconds. Repeat 3 times.",
+          "resources": [
+            "https://www.verywellfit.com/wall-sit-exercise-3120097"
+          ],
+          "video": "https://www.youtube.com/watch?v=-cdph8hv0O0",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Russian Twists",
+          "instructions": "Sit, lean back, twist torso side to side with or without weight. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-russian-twist-4589305"
+          ],
+          "video": "https://www.youtube.com/watch?v=wkD8rjkodUI",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Leg Raises",
+          "instructions": "Lie down and lift legs up to 90\u00b0. Lower without touching ground. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-leg-raises-4589304"
+          ],
+          "video": "https://www.youtube.com/watch?v=l4kQd9eWclE",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Bicycle Crunches",
+          "instructions": "Lie back, alternate elbow to opposite knee. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bicycle-crunch-4589306"
+          ],
+          "video": "https://www.youtube.com/watch?v=9FGilxCbdz8",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Incline Push-ups",
+          "instructions": "Push up with hands on a bench. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/incline-push-up-exercise-4589307"
+          ],
+          "video": "https://www.youtube.com/watch?v=8RMUdDkQfsc",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Chest Dips",
+          "instructions": "Lower and raise your body on dip bars. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/chest-dips"
+          ],
+          "video": "https://www.youtube.com/watch?v=2z8JmcrW-As",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Incline Bench Press",
+          "instructions": "Press bar from upper chest. 3 sets of 8 reps.",
+          "resources": [
+            "https://www.verywellfit.com/incline-bench-press-4589308"
+          ],
+          "video": "https://www.youtube.com/watch?v=8iPEnn-ltC8",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Lat Pulldown",
+          "instructions": "Pull bar to upper chest. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/lat-pulldown"
+          ],
+          "video": "https://www.youtube.com/watch?v=CAwf7n6Luuc",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Reverse Flys",
+          "instructions": "Bend over, raise dumbbells sideways. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-reverse-fly-4589309"
+          ],
+          "video": "https://www.youtube.com/watch?v=1nP7Vf0zUto",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Superman Exercise",
+          "instructions": "Lie face down and raise arms and legs. Hold 5s, repeat 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/the-superman-exercise-4589310"
+          ],
+          "video": "https://www.youtube.com/watch?v=z6PJMT2y8GQ",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Lateral Raises",
+          "instructions": "Raise dumbbells to the sides. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-lateral-raises-4589311"
+          ],
+          "video": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Front Raises",
+          "instructions": "Lift dumbbells in front to shoulder height. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/front-raise-exercise-4589312"
+          ],
+          "video": "https://www.youtube.com/watch?v=-t7fuZ0KhDA",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Arnold Press",
+          "instructions": "Rotate dumbbells as you press overhead. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/arnold-dumbbell-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=vj2w851ZHRM",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Bulgarian Split Squats",
+          "instructions": "Place one foot behind you on a bench, squat down on front leg. 3 sets of 10 reps each leg.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bulgarian-split-squat-5186950"
+          ],
+          "video": "https://www.youtube.com/watch?v=2C-uNgKwPLE",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Leg Press",
+          "instructions": "Push the platform with your legs. Do 3 sets of 12 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/leg-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=IZxyjW7MPJQ",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Wall Sits",
+          "instructions": "Hold a squat position against a wall for 30-60 seconds. Repeat 3 times.",
+          "resources": [
+            "https://www.verywellfit.com/wall-sit-exercise-3120097"
+          ],
+          "video": "https://www.youtube.com/watch?v=-cdph8hv0O0",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Russian Twists",
+          "instructions": "Sit, lean back, twist torso side to side with or without weight. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-russian-twist-4589305"
+          ],
+          "video": "https://www.youtube.com/watch?v=wkD8rjkodUI",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Leg Raises",
+          "instructions": "Lie down and lift legs up to 90\u00b0. Lower without touching ground. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-leg-raises-4589304"
+          ],
+          "video": "https://www.youtube.com/watch?v=l4kQd9eWclE",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Bicycle Crunches",
+          "instructions": "Lie back, alternate elbow to opposite knee. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bicycle-crunch-4589306"
+          ],
+          "video": "https://www.youtube.com/watch?v=9FGilxCbdz8",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Incline Dumbbell Press",
+          "instructions": "Lie on an incline bench and press dumbbells upward. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/incline-dumbbell-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=8iPEnn-ltC8",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Chest Fly",
+          "instructions": "Use dumbbells or a machine to perform flys. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-dumbbell-chest-fly-3498290"
+          ],
+          "video": "https://www.youtube.com/watch?v=eozdVDA78K0",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Push-up to Shoulder Tap",
+          "instructions": "Perform a push-up, then tap each shoulder. 3 sets of 10 reps.",
+          "resources": [
+            "https://greatist.com/fitness/how-to-do-push-up-shoulder-tap"
+          ],
+          "video": "https://www.youtube.com/watch?v=TBzMaJEwL9g",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Lat Pulldown",
+          "instructions": "Pull the bar down to your chest. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/lat-pulldown"
+          ],
+          "video": "https://www.youtube.com/watch?v=CAwf7n6Luuc",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Dumbbell Rows",
+          "instructions": "Row dumbbell toward waist. 3 sets of 10 reps per arm.",
+          "resources": [
+            "https://www.verywellfit.com/dumbbell-row-exercise-4589308"
+          ],
+          "video": "https://www.youtube.com/watch?v=pYcpY20QaE8",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Superman Exercise",
+          "instructions": "Lie face down and lift arms and legs. Hold for 30 seconds. Repeat 3 times.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-superman-exercise-4686206"
+          ],
+          "video": "https://www.youtube.com/watch?v=z6PJMT2y8GQ",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Lateral Raises",
+          "instructions": "Raise dumbbells to sides until shoulder level. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-lateral-raises-4589307"
+          ],
+          "video": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Front Raises",
+          "instructions": "Lift dumbbells in front to shoulder level. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-front-raise-4589304"
+          ],
+          "video": "https://www.youtube.com/watch?v=-t7fuZ0KhDA",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Arnold Press",
+          "instructions": "Rotate dumbbells from front to overhead press. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/arnold-dumbbell-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=vj2w851ZHRM",
           "muscle_group": "Shoulders"
         }
       ],
@@ -174,6 +1524,276 @@
           ],
           "video": "https://www.youtube.com/watch?v=tlfGU8QxKCs",
           "muscle_group": "Legs"
+        },
+        {
+          "name": "Bulgarian Split Squats",
+          "instructions": "Place one foot behind you on a bench, squat down on front leg. 3 sets of 10 reps each leg.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bulgarian-split-squat-5186950"
+          ],
+          "video": "https://www.youtube.com/watch?v=2C-uNgKwPLE",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Leg Press",
+          "instructions": "Push the platform with your legs. Do 3 sets of 12 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/leg-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=IZxyjW7MPJQ",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Wall Sits",
+          "instructions": "Hold a squat position against a wall for 30-60 seconds. Repeat 3 times.",
+          "resources": [
+            "https://www.verywellfit.com/wall-sit-exercise-3120097"
+          ],
+          "video": "https://www.youtube.com/watch?v=-cdph8hv0O0",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Russian Twists",
+          "instructions": "Sit, lean back, twist torso side to side with or without weight. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-russian-twist-4589305"
+          ],
+          "video": "https://www.youtube.com/watch?v=wkD8rjkodUI",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Leg Raises",
+          "instructions": "Lie down and lift legs up to 90\u00b0. Lower without touching ground. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-leg-raises-4589304"
+          ],
+          "video": "https://www.youtube.com/watch?v=l4kQd9eWclE",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Bicycle Crunches",
+          "instructions": "Lie back, alternate elbow to opposite knee. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bicycle-crunch-4589306"
+          ],
+          "video": "https://www.youtube.com/watch?v=9FGilxCbdz8",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Incline Push-ups",
+          "instructions": "Push up with hands on a bench. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/incline-push-up-exercise-4589307"
+          ],
+          "video": "https://www.youtube.com/watch?v=8RMUdDkQfsc",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Chest Dips",
+          "instructions": "Lower and raise your body on dip bars. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/chest-dips"
+          ],
+          "video": "https://www.youtube.com/watch?v=2z8JmcrW-As",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Incline Bench Press",
+          "instructions": "Press bar from upper chest. 3 sets of 8 reps.",
+          "resources": [
+            "https://www.verywellfit.com/incline-bench-press-4589308"
+          ],
+          "video": "https://www.youtube.com/watch?v=8iPEnn-ltC8",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Lat Pulldown",
+          "instructions": "Pull bar to upper chest. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/lat-pulldown"
+          ],
+          "video": "https://www.youtube.com/watch?v=CAwf7n6Luuc",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Reverse Flys",
+          "instructions": "Bend over, raise dumbbells sideways. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-reverse-fly-4589309"
+          ],
+          "video": "https://www.youtube.com/watch?v=1nP7Vf0zUto",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Superman Exercise",
+          "instructions": "Lie face down and raise arms and legs. Hold 5s, repeat 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/the-superman-exercise-4589310"
+          ],
+          "video": "https://www.youtube.com/watch?v=z6PJMT2y8GQ",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Lateral Raises",
+          "instructions": "Raise dumbbells to the sides. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-lateral-raises-4589311"
+          ],
+          "video": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Front Raises",
+          "instructions": "Lift dumbbells in front to shoulder height. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/front-raise-exercise-4589312"
+          ],
+          "video": "https://www.youtube.com/watch?v=-t7fuZ0KhDA",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Arnold Press",
+          "instructions": "Rotate dumbbells as you press overhead. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/arnold-dumbbell-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=vj2w851ZHRM",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Bulgarian Split Squats",
+          "instructions": "Place one foot behind you on a bench, squat down on front leg. 3 sets of 10 reps each leg.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bulgarian-split-squat-5186950"
+          ],
+          "video": "https://www.youtube.com/watch?v=2C-uNgKwPLE",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Leg Press",
+          "instructions": "Push the platform with your legs. Do 3 sets of 12 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/leg-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=IZxyjW7MPJQ",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Wall Sits",
+          "instructions": "Hold a squat position against a wall for 30-60 seconds. Repeat 3 times.",
+          "resources": [
+            "https://www.verywellfit.com/wall-sit-exercise-3120097"
+          ],
+          "video": "https://www.youtube.com/watch?v=-cdph8hv0O0",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Russian Twists",
+          "instructions": "Sit, lean back, twist torso side to side with or without weight. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-russian-twist-4589305"
+          ],
+          "video": "https://www.youtube.com/watch?v=wkD8rjkodUI",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Leg Raises",
+          "instructions": "Lie down and lift legs up to 90\u00b0. Lower without touching ground. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-leg-raises-4589304"
+          ],
+          "video": "https://www.youtube.com/watch?v=l4kQd9eWclE",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Bicycle Crunches",
+          "instructions": "Lie back, alternate elbow to opposite knee. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bicycle-crunch-4589306"
+          ],
+          "video": "https://www.youtube.com/watch?v=9FGilxCbdz8",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Incline Dumbbell Press",
+          "instructions": "Lie on an incline bench and press dumbbells upward. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/incline-dumbbell-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=8iPEnn-ltC8",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Chest Fly",
+          "instructions": "Use dumbbells or a machine to perform flys. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-dumbbell-chest-fly-3498290"
+          ],
+          "video": "https://www.youtube.com/watch?v=eozdVDA78K0",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Push-up to Shoulder Tap",
+          "instructions": "Perform a push-up, then tap each shoulder. 3 sets of 10 reps.",
+          "resources": [
+            "https://greatist.com/fitness/how-to-do-push-up-shoulder-tap"
+          ],
+          "video": "https://www.youtube.com/watch?v=TBzMaJEwL9g",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Lat Pulldown",
+          "instructions": "Pull the bar down to your chest. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/lat-pulldown"
+          ],
+          "video": "https://www.youtube.com/watch?v=CAwf7n6Luuc",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Dumbbell Rows",
+          "instructions": "Row dumbbell toward waist. 3 sets of 10 reps per arm.",
+          "resources": [
+            "https://www.verywellfit.com/dumbbell-row-exercise-4589308"
+          ],
+          "video": "https://www.youtube.com/watch?v=pYcpY20QaE8",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Superman Exercise",
+          "instructions": "Lie face down and lift arms and legs. Hold for 30 seconds. Repeat 3 times.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-superman-exercise-4686206"
+          ],
+          "video": "https://www.youtube.com/watch?v=z6PJMT2y8GQ",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Lateral Raises",
+          "instructions": "Raise dumbbells to sides until shoulder level. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-lateral-raises-4589307"
+          ],
+          "video": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Front Raises",
+          "instructions": "Lift dumbbells in front to shoulder level. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-front-raise-4589304"
+          ],
+          "video": "https://www.youtube.com/watch?v=-t7fuZ0KhDA",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Arnold Press",
+          "instructions": "Rotate dumbbells from front to overhead press. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/arnold-dumbbell-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=vj2w851ZHRM",
+          "muscle_group": "Shoulders"
         }
       ]
     },
@@ -203,6 +1823,276 @@
           ],
           "video": "https://www.youtube.com/watch?v=c4DAnQ6DtF8",
           "muscle_group": "Full Body"
+        },
+        {
+          "name": "Bulgarian Split Squats",
+          "instructions": "Place one foot behind you on a bench, squat down on front leg. 3 sets of 10 reps each leg.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bulgarian-split-squat-5186950"
+          ],
+          "video": "https://www.youtube.com/watch?v=2C-uNgKwPLE",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Leg Press",
+          "instructions": "Push the platform with your legs. Do 3 sets of 12 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/leg-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=IZxyjW7MPJQ",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Wall Sits",
+          "instructions": "Hold a squat position against a wall for 30-60 seconds. Repeat 3 times.",
+          "resources": [
+            "https://www.verywellfit.com/wall-sit-exercise-3120097"
+          ],
+          "video": "https://www.youtube.com/watch?v=-cdph8hv0O0",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Russian Twists",
+          "instructions": "Sit, lean back, twist torso side to side with or without weight. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-russian-twist-4589305"
+          ],
+          "video": "https://www.youtube.com/watch?v=wkD8rjkodUI",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Leg Raises",
+          "instructions": "Lie down and lift legs up to 90\u00b0. Lower without touching ground. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-leg-raises-4589304"
+          ],
+          "video": "https://www.youtube.com/watch?v=l4kQd9eWclE",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Bicycle Crunches",
+          "instructions": "Lie back, alternate elbow to opposite knee. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bicycle-crunch-4589306"
+          ],
+          "video": "https://www.youtube.com/watch?v=9FGilxCbdz8",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Incline Push-ups",
+          "instructions": "Push up with hands on a bench. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/incline-push-up-exercise-4589307"
+          ],
+          "video": "https://www.youtube.com/watch?v=8RMUdDkQfsc",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Chest Dips",
+          "instructions": "Lower and raise your body on dip bars. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/chest-dips"
+          ],
+          "video": "https://www.youtube.com/watch?v=2z8JmcrW-As",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Incline Bench Press",
+          "instructions": "Press bar from upper chest. 3 sets of 8 reps.",
+          "resources": [
+            "https://www.verywellfit.com/incline-bench-press-4589308"
+          ],
+          "video": "https://www.youtube.com/watch?v=8iPEnn-ltC8",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Lat Pulldown",
+          "instructions": "Pull bar to upper chest. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/lat-pulldown"
+          ],
+          "video": "https://www.youtube.com/watch?v=CAwf7n6Luuc",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Reverse Flys",
+          "instructions": "Bend over, raise dumbbells sideways. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-reverse-fly-4589309"
+          ],
+          "video": "https://www.youtube.com/watch?v=1nP7Vf0zUto",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Superman Exercise",
+          "instructions": "Lie face down and raise arms and legs. Hold 5s, repeat 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/the-superman-exercise-4589310"
+          ],
+          "video": "https://www.youtube.com/watch?v=z6PJMT2y8GQ",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Lateral Raises",
+          "instructions": "Raise dumbbells to the sides. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-lateral-raises-4589311"
+          ],
+          "video": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Front Raises",
+          "instructions": "Lift dumbbells in front to shoulder height. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/front-raise-exercise-4589312"
+          ],
+          "video": "https://www.youtube.com/watch?v=-t7fuZ0KhDA",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Arnold Press",
+          "instructions": "Rotate dumbbells as you press overhead. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/arnold-dumbbell-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=vj2w851ZHRM",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Bulgarian Split Squats",
+          "instructions": "Place one foot behind you on a bench, squat down on front leg. 3 sets of 10 reps each leg.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bulgarian-split-squat-5186950"
+          ],
+          "video": "https://www.youtube.com/watch?v=2C-uNgKwPLE",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Leg Press",
+          "instructions": "Push the platform with your legs. Do 3 sets of 12 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/leg-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=IZxyjW7MPJQ",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Wall Sits",
+          "instructions": "Hold a squat position against a wall for 30-60 seconds. Repeat 3 times.",
+          "resources": [
+            "https://www.verywellfit.com/wall-sit-exercise-3120097"
+          ],
+          "video": "https://www.youtube.com/watch?v=-cdph8hv0O0",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Russian Twists",
+          "instructions": "Sit, lean back, twist torso side to side with or without weight. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-russian-twist-4589305"
+          ],
+          "video": "https://www.youtube.com/watch?v=wkD8rjkodUI",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Leg Raises",
+          "instructions": "Lie down and lift legs up to 90\u00b0. Lower without touching ground. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-leg-raises-4589304"
+          ],
+          "video": "https://www.youtube.com/watch?v=l4kQd9eWclE",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Bicycle Crunches",
+          "instructions": "Lie back, alternate elbow to opposite knee. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bicycle-crunch-4589306"
+          ],
+          "video": "https://www.youtube.com/watch?v=9FGilxCbdz8",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Incline Dumbbell Press",
+          "instructions": "Lie on an incline bench and press dumbbells upward. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/incline-dumbbell-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=8iPEnn-ltC8",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Chest Fly",
+          "instructions": "Use dumbbells or a machine to perform flys. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-dumbbell-chest-fly-3498290"
+          ],
+          "video": "https://www.youtube.com/watch?v=eozdVDA78K0",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Push-up to Shoulder Tap",
+          "instructions": "Perform a push-up, then tap each shoulder. 3 sets of 10 reps.",
+          "resources": [
+            "https://greatist.com/fitness/how-to-do-push-up-shoulder-tap"
+          ],
+          "video": "https://www.youtube.com/watch?v=TBzMaJEwL9g",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Lat Pulldown",
+          "instructions": "Pull the bar down to your chest. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/lat-pulldown"
+          ],
+          "video": "https://www.youtube.com/watch?v=CAwf7n6Luuc",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Dumbbell Rows",
+          "instructions": "Row dumbbell toward waist. 3 sets of 10 reps per arm.",
+          "resources": [
+            "https://www.verywellfit.com/dumbbell-row-exercise-4589308"
+          ],
+          "video": "https://www.youtube.com/watch?v=pYcpY20QaE8",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Superman Exercise",
+          "instructions": "Lie face down and lift arms and legs. Hold for 30 seconds. Repeat 3 times.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-superman-exercise-4686206"
+          ],
+          "video": "https://www.youtube.com/watch?v=z6PJMT2y8GQ",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Lateral Raises",
+          "instructions": "Raise dumbbells to sides until shoulder level. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-lateral-raises-4589307"
+          ],
+          "video": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Front Raises",
+          "instructions": "Lift dumbbells in front to shoulder level. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-front-raise-4589304"
+          ],
+          "video": "https://www.youtube.com/watch?v=-t7fuZ0KhDA",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Arnold Press",
+          "instructions": "Rotate dumbbells from front to overhead press. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/arnold-dumbbell-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=vj2w851ZHRM",
+          "muscle_group": "Shoulders"
         }
       ],
       "intermediate": [
@@ -230,6 +2120,276 @@
             "https://www.runnersworld.com/uk/training/beginners/a761681/how-to-start-running/"
           ],
           "video": "https://www.youtube.com/watch?v=cB-KZ1xTj5U"
+        },
+        {
+          "name": "Bulgarian Split Squats",
+          "instructions": "Place one foot behind you on a bench, squat down on front leg. 3 sets of 10 reps each leg.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bulgarian-split-squat-5186950"
+          ],
+          "video": "https://www.youtube.com/watch?v=2C-uNgKwPLE",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Leg Press",
+          "instructions": "Push the platform with your legs. Do 3 sets of 12 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/leg-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=IZxyjW7MPJQ",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Wall Sits",
+          "instructions": "Hold a squat position against a wall for 30-60 seconds. Repeat 3 times.",
+          "resources": [
+            "https://www.verywellfit.com/wall-sit-exercise-3120097"
+          ],
+          "video": "https://www.youtube.com/watch?v=-cdph8hv0O0",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Russian Twists",
+          "instructions": "Sit, lean back, twist torso side to side with or without weight. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-russian-twist-4589305"
+          ],
+          "video": "https://www.youtube.com/watch?v=wkD8rjkodUI",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Leg Raises",
+          "instructions": "Lie down and lift legs up to 90\u00b0. Lower without touching ground. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-leg-raises-4589304"
+          ],
+          "video": "https://www.youtube.com/watch?v=l4kQd9eWclE",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Bicycle Crunches",
+          "instructions": "Lie back, alternate elbow to opposite knee. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bicycle-crunch-4589306"
+          ],
+          "video": "https://www.youtube.com/watch?v=9FGilxCbdz8",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Incline Push-ups",
+          "instructions": "Push up with hands on a bench. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/incline-push-up-exercise-4589307"
+          ],
+          "video": "https://www.youtube.com/watch?v=8RMUdDkQfsc",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Chest Dips",
+          "instructions": "Lower and raise your body on dip bars. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/chest-dips"
+          ],
+          "video": "https://www.youtube.com/watch?v=2z8JmcrW-As",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Incline Bench Press",
+          "instructions": "Press bar from upper chest. 3 sets of 8 reps.",
+          "resources": [
+            "https://www.verywellfit.com/incline-bench-press-4589308"
+          ],
+          "video": "https://www.youtube.com/watch?v=8iPEnn-ltC8",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Lat Pulldown",
+          "instructions": "Pull bar to upper chest. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/lat-pulldown"
+          ],
+          "video": "https://www.youtube.com/watch?v=CAwf7n6Luuc",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Reverse Flys",
+          "instructions": "Bend over, raise dumbbells sideways. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-reverse-fly-4589309"
+          ],
+          "video": "https://www.youtube.com/watch?v=1nP7Vf0zUto",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Superman Exercise",
+          "instructions": "Lie face down and raise arms and legs. Hold 5s, repeat 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/the-superman-exercise-4589310"
+          ],
+          "video": "https://www.youtube.com/watch?v=z6PJMT2y8GQ",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Lateral Raises",
+          "instructions": "Raise dumbbells to the sides. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-lateral-raises-4589311"
+          ],
+          "video": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Front Raises",
+          "instructions": "Lift dumbbells in front to shoulder height. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/front-raise-exercise-4589312"
+          ],
+          "video": "https://www.youtube.com/watch?v=-t7fuZ0KhDA",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Arnold Press",
+          "instructions": "Rotate dumbbells as you press overhead. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/arnold-dumbbell-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=vj2w851ZHRM",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Bulgarian Split Squats",
+          "instructions": "Place one foot behind you on a bench, squat down on front leg. 3 sets of 10 reps each leg.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bulgarian-split-squat-5186950"
+          ],
+          "video": "https://www.youtube.com/watch?v=2C-uNgKwPLE",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Leg Press",
+          "instructions": "Push the platform with your legs. Do 3 sets of 12 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/leg-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=IZxyjW7MPJQ",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Wall Sits",
+          "instructions": "Hold a squat position against a wall for 30-60 seconds. Repeat 3 times.",
+          "resources": [
+            "https://www.verywellfit.com/wall-sit-exercise-3120097"
+          ],
+          "video": "https://www.youtube.com/watch?v=-cdph8hv0O0",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Russian Twists",
+          "instructions": "Sit, lean back, twist torso side to side with or without weight. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-russian-twist-4589305"
+          ],
+          "video": "https://www.youtube.com/watch?v=wkD8rjkodUI",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Leg Raises",
+          "instructions": "Lie down and lift legs up to 90\u00b0. Lower without touching ground. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-leg-raises-4589304"
+          ],
+          "video": "https://www.youtube.com/watch?v=l4kQd9eWclE",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Bicycle Crunches",
+          "instructions": "Lie back, alternate elbow to opposite knee. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bicycle-crunch-4589306"
+          ],
+          "video": "https://www.youtube.com/watch?v=9FGilxCbdz8",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Incline Dumbbell Press",
+          "instructions": "Lie on an incline bench and press dumbbells upward. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/incline-dumbbell-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=8iPEnn-ltC8",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Chest Fly",
+          "instructions": "Use dumbbells or a machine to perform flys. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-dumbbell-chest-fly-3498290"
+          ],
+          "video": "https://www.youtube.com/watch?v=eozdVDA78K0",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Push-up to Shoulder Tap",
+          "instructions": "Perform a push-up, then tap each shoulder. 3 sets of 10 reps.",
+          "resources": [
+            "https://greatist.com/fitness/how-to-do-push-up-shoulder-tap"
+          ],
+          "video": "https://www.youtube.com/watch?v=TBzMaJEwL9g",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Lat Pulldown",
+          "instructions": "Pull the bar down to your chest. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/lat-pulldown"
+          ],
+          "video": "https://www.youtube.com/watch?v=CAwf7n6Luuc",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Dumbbell Rows",
+          "instructions": "Row dumbbell toward waist. 3 sets of 10 reps per arm.",
+          "resources": [
+            "https://www.verywellfit.com/dumbbell-row-exercise-4589308"
+          ],
+          "video": "https://www.youtube.com/watch?v=pYcpY20QaE8",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Superman Exercise",
+          "instructions": "Lie face down and lift arms and legs. Hold for 30 seconds. Repeat 3 times.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-superman-exercise-4686206"
+          ],
+          "video": "https://www.youtube.com/watch?v=z6PJMT2y8GQ",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Lateral Raises",
+          "instructions": "Raise dumbbells to sides until shoulder level. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-lateral-raises-4589307"
+          ],
+          "video": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Front Raises",
+          "instructions": "Lift dumbbells in front to shoulder level. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-front-raise-4589304"
+          ],
+          "video": "https://www.youtube.com/watch?v=-t7fuZ0KhDA",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Arnold Press",
+          "instructions": "Rotate dumbbells from front to overhead press. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/arnold-dumbbell-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=vj2w851ZHRM",
+          "muscle_group": "Shoulders"
         }
       ],
       "advanced": [
@@ -259,6 +2419,276 @@
           ],
           "video": "https://www.youtube.com/watch?v=FDFRZYd9gS8",
           "muscle_group": "Legs"
+        },
+        {
+          "name": "Bulgarian Split Squats",
+          "instructions": "Place one foot behind you on a bench, squat down on front leg. 3 sets of 10 reps each leg.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bulgarian-split-squat-5186950"
+          ],
+          "video": "https://www.youtube.com/watch?v=2C-uNgKwPLE",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Leg Press",
+          "instructions": "Push the platform with your legs. Do 3 sets of 12 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/leg-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=IZxyjW7MPJQ",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Wall Sits",
+          "instructions": "Hold a squat position against a wall for 30-60 seconds. Repeat 3 times.",
+          "resources": [
+            "https://www.verywellfit.com/wall-sit-exercise-3120097"
+          ],
+          "video": "https://www.youtube.com/watch?v=-cdph8hv0O0",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Russian Twists",
+          "instructions": "Sit, lean back, twist torso side to side with or without weight. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-russian-twist-4589305"
+          ],
+          "video": "https://www.youtube.com/watch?v=wkD8rjkodUI",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Leg Raises",
+          "instructions": "Lie down and lift legs up to 90\u00b0. Lower without touching ground. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-leg-raises-4589304"
+          ],
+          "video": "https://www.youtube.com/watch?v=l4kQd9eWclE",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Bicycle Crunches",
+          "instructions": "Lie back, alternate elbow to opposite knee. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bicycle-crunch-4589306"
+          ],
+          "video": "https://www.youtube.com/watch?v=9FGilxCbdz8",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Incline Push-ups",
+          "instructions": "Push up with hands on a bench. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/incline-push-up-exercise-4589307"
+          ],
+          "video": "https://www.youtube.com/watch?v=8RMUdDkQfsc",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Chest Dips",
+          "instructions": "Lower and raise your body on dip bars. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/chest-dips"
+          ],
+          "video": "https://www.youtube.com/watch?v=2z8JmcrW-As",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Incline Bench Press",
+          "instructions": "Press bar from upper chest. 3 sets of 8 reps.",
+          "resources": [
+            "https://www.verywellfit.com/incline-bench-press-4589308"
+          ],
+          "video": "https://www.youtube.com/watch?v=8iPEnn-ltC8",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Lat Pulldown",
+          "instructions": "Pull bar to upper chest. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/lat-pulldown"
+          ],
+          "video": "https://www.youtube.com/watch?v=CAwf7n6Luuc",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Reverse Flys",
+          "instructions": "Bend over, raise dumbbells sideways. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-reverse-fly-4589309"
+          ],
+          "video": "https://www.youtube.com/watch?v=1nP7Vf0zUto",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Superman Exercise",
+          "instructions": "Lie face down and raise arms and legs. Hold 5s, repeat 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/the-superman-exercise-4589310"
+          ],
+          "video": "https://www.youtube.com/watch?v=z6PJMT2y8GQ",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Lateral Raises",
+          "instructions": "Raise dumbbells to the sides. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-lateral-raises-4589311"
+          ],
+          "video": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Front Raises",
+          "instructions": "Lift dumbbells in front to shoulder height. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/front-raise-exercise-4589312"
+          ],
+          "video": "https://www.youtube.com/watch?v=-t7fuZ0KhDA",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Arnold Press",
+          "instructions": "Rotate dumbbells as you press overhead. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/arnold-dumbbell-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=vj2w851ZHRM",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Bulgarian Split Squats",
+          "instructions": "Place one foot behind you on a bench, squat down on front leg. 3 sets of 10 reps each leg.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bulgarian-split-squat-5186950"
+          ],
+          "video": "https://www.youtube.com/watch?v=2C-uNgKwPLE",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Leg Press",
+          "instructions": "Push the platform with your legs. Do 3 sets of 12 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/leg-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=IZxyjW7MPJQ",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Wall Sits",
+          "instructions": "Hold a squat position against a wall for 30-60 seconds. Repeat 3 times.",
+          "resources": [
+            "https://www.verywellfit.com/wall-sit-exercise-3120097"
+          ],
+          "video": "https://www.youtube.com/watch?v=-cdph8hv0O0",
+          "muscle_group": "Legs"
+        },
+        {
+          "name": "Russian Twists",
+          "instructions": "Sit, lean back, twist torso side to side with or without weight. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-russian-twist-4589305"
+          ],
+          "video": "https://www.youtube.com/watch?v=wkD8rjkodUI",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Leg Raises",
+          "instructions": "Lie down and lift legs up to 90\u00b0. Lower without touching ground. 3 sets of 15 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-leg-raises-4589304"
+          ],
+          "video": "https://www.youtube.com/watch?v=l4kQd9eWclE",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Bicycle Crunches",
+          "instructions": "Lie back, alternate elbow to opposite knee. 3 sets of 20 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-bicycle-crunch-4589306"
+          ],
+          "video": "https://www.youtube.com/watch?v=9FGilxCbdz8",
+          "muscle_group": "Core"
+        },
+        {
+          "name": "Incline Dumbbell Press",
+          "instructions": "Lie on an incline bench and press dumbbells upward. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/incline-dumbbell-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=8iPEnn-ltC8",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Chest Fly",
+          "instructions": "Use dumbbells or a machine to perform flys. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-dumbbell-chest-fly-3498290"
+          ],
+          "video": "https://www.youtube.com/watch?v=eozdVDA78K0",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Push-up to Shoulder Tap",
+          "instructions": "Perform a push-up, then tap each shoulder. 3 sets of 10 reps.",
+          "resources": [
+            "https://greatist.com/fitness/how-to-do-push-up-shoulder-tap"
+          ],
+          "video": "https://www.youtube.com/watch?v=TBzMaJEwL9g",
+          "muscle_group": "Chest"
+        },
+        {
+          "name": "Lat Pulldown",
+          "instructions": "Pull the bar down to your chest. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/lat-pulldown"
+          ],
+          "video": "https://www.youtube.com/watch?v=CAwf7n6Luuc",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Dumbbell Rows",
+          "instructions": "Row dumbbell toward waist. 3 sets of 10 reps per arm.",
+          "resources": [
+            "https://www.verywellfit.com/dumbbell-row-exercise-4589308"
+          ],
+          "video": "https://www.youtube.com/watch?v=pYcpY20QaE8",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Superman Exercise",
+          "instructions": "Lie face down and lift arms and legs. Hold for 30 seconds. Repeat 3 times.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-superman-exercise-4686206"
+          ],
+          "video": "https://www.youtube.com/watch?v=z6PJMT2y8GQ",
+          "muscle_group": "Back"
+        },
+        {
+          "name": "Lateral Raises",
+          "instructions": "Raise dumbbells to sides until shoulder level. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-lateral-raises-4589307"
+          ],
+          "video": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Front Raises",
+          "instructions": "Lift dumbbells in front to shoulder level. 3 sets of 12 reps.",
+          "resources": [
+            "https://www.verywellfit.com/how-to-do-the-front-raise-4589304"
+          ],
+          "video": "https://www.youtube.com/watch?v=-t7fuZ0KhDA",
+          "muscle_group": "Shoulders"
+        },
+        {
+          "name": "Arnold Press",
+          "instructions": "Rotate dumbbells from front to overhead press. 3 sets of 10 reps.",
+          "resources": [
+            "https://www.bodybuilding.com/exercises/arnold-dumbbell-press"
+          ],
+          "video": "https://www.youtube.com/watch?v=vj2w851ZHRM",
+          "muscle_group": "Shoulders"
         }
       ]
     }
