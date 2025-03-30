@@ -76,8 +76,8 @@ Momentum is built for individuals who want a structured, easy-to-use tool for pl
 - [ ] Deploy on GitHub Pages, Netlify, or similar hosting service.
 ---
 
-# Project Structure
-momentum/
+# Project Directory
+momentum/ 
 │
 ├── index.html         # Main HTML layout and UI
 ├── style.css          # CSS for layout and styling
@@ -178,4 +178,4 @@ Momentum is developed using agile-inspired sprints to ensure iterative progress,
     ```bash
     python -m http.server 5500
     ```
-
+- Open your browser and go to: [http://localhost:5500](http://localhost:5500)

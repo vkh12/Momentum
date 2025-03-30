@@ -2,35 +2,43 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Gym Regimen Generator</title>
+  <title>Momentum</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="container">
-    <h1>Weekly Gym Regimen Generator</h1>
+    <h1>Gym Schedule</h1>
     
-    <form id="regimenForm">
-      <label for="goal">Fitness Goal:</label>
-      <select id="goal">
-        <option value="weight_loss">Weight Loss</option>
-        <option value="muscle_gain">Muscle Gain</option>
-        <option value="endurance">Endurance</option>
-      </select>
+    <form id="regimenForm" class="form-container">
+      <div class="form-group">
+        <label for="goal">Goal:</label>
+        <select id="goal" name="goal">
+          <option value="strength">Strength</option>
+          <option value="endurance">Endurance</option>
+          <option value="flexibility">Flexibility</option>
+        </select>
+      </div>
 
-      <label for="experience">Experience Level:</label>
-      <select id="experience">
-        <option value="beginner">Beginner</option>
-        <option value="intermediate">Intermediate</option>
-        <option value="advanced">Advanced</option>
-      </select>
+      <div class="form-group">
+        <label for="experience">Level:</label>
+        <select id="experience" name="experience">
+          <option value="beginner">Beginner</option>
+          <option value="intermediate">Intermediate</option>
+          <option value="advanced">Advanced</option>
+        </select>
+      </div>
 
-      <label for="days">Days per Week:</label>
-      <input type="number" id="days" min="1" max="7" value="4">
+      <div class="form-group">
+        <label for="days">Days:</label>
+        <input type="number" id="days" name="days" min="1" max="7" value="3" />
+      </div>
 
-      <button type="submit">Generate Plan</button>
+      <button type="submit" class="generate-button">Generate</button>
     </form>
 
-    <div id="output"></div>
+    <div class="results" style="display: none;">
+      <div id="output"></div>
+    </div>
   </div>
 
   <script src="script.js"></script>
