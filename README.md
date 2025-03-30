@@ -76,7 +76,94 @@ Momentum is built for individuals who want a structured, easy-to-use tool for pl
 ---
 
 ## Project Structure
-momentum/ ├── index.html # Main HTML layout and UI ├── style.css # CSS for layout and styling ├── script.js # JavaScript logic for workout plan generation ├── workouts.json # JSON-based exercise database ├── README.md # Project documentation (this file) ├── assets/ # Folder for images, logos, and other assets │ └── preview.png # (Optional) Preview image for the project
+momentum/
+│
+├── index.html         # Main HTML layout and UI
+├── style.css          # CSS for layout and styling
+├── script.js          # JavaScript logic for plan generation
+├── workouts.json      # JSON-based exercise database
+├── README.md          # Project documentation (with embedded PRD)
+└── assets/            # (Optional) Images, logos, and preview screenshots
+    └── preview.png
+
+## 🏃 Sprint Planning
+
+Momentum is developed using agile-inspired sprints to ensure iterative progress, frequent testing, and continuous delivery of value. Each sprint lasts **1 week** with clear goals and deliverables.
+
+---
+
+### 🗓 Sprint 1: MVP – Core Functionality
+
+**Duration:** 1 Week  
+**Goal:** Build a functional gym regimen generator with a static frontend.
+
+#### ✅ Deliverables:
+- [x] Set up project structure (HTML, CSS, JS)
+- [x] Create and load `workouts.json` data file
+- [x] Build user form to collect goal, experience, and availability
+- [x] Generate weekly plan dynamically
+- [x] Display workouts by day
+- [x] Basic styling (responsive)
+
+---
+
+### 🗓 Sprint 2: Usability + UI Improvements
+
+**Duration:** 1 Week  
+**Goal:** Enhance user experience and add polish.
+
+#### ✅ Deliverables:
+- [ ] Refine CSS for mobile responsiveness
+- [ ] Add error handling for form validation & fetch failures
+- [ ] Create loading state when generating workouts
+- [ ] Highlight active day or allow day-by-day expansion
+- [ ] Add preview image (GIF/screenshot) for README
+
+---
+
+### 🗓 Sprint 3: Feature Expansion
+
+**Duration:** 1 Week  
+**Goal:** Extend core features based on feedback.
+
+#### ✅ Deliverables:
+- [ ] Allow users to save their plan using `localStorage`
+- [ ] Add “Regenerate Plan” button
+- [ ] Add custom workout input support
+- [ ] Build PDF export / print-friendly view
+- [ ] Dark/light mode toggle
+
+---
+
+### 🗓 Sprint 4: Deployment + Docs
+
+**Duration:** 1 Week  
+**Goal:** Prepare project for public release.
+
+#### ✅ Deliverables:
+- [ ] Finalize README with visuals and deployment instructions
+- [ ] Deploy to GitHub Pages or Netlify
+- [ ] Add favicon and logo
+- [ ] Final code cleanup and linting
+
+---
+
+### 🔄 Backlog (Future Sprints)
+
+- User login & backend for saving multiple plans
+- AI-based workout optimization
+- Nutrition tracking module
+- Daily progress checklist
+- Community feature to share regimens
+
+---
+
+### 🛠 Agile Notes
+
+- Standups: Solo check-ins or journal entries in a dev log
+- Retros: Reflect at the end of each sprint on what's working, what to improve
+- Tasks managed in GitHub Issues or Trello (optional)
+
 ## Getting Started
 
 ### Prerequisites
