@@ -57,8 +57,20 @@ function generateWorkoutPlan(db, goal, level, days) {
 
   // Helper function to get exercises for a specific muscle group
   const getExercises = (group, count = 3) => {
-    const shuffled = groupedExercises[group].sort(() => 0.5 - Math.random());
-    return shuffled.slice(0, count);
+    const exercises = [];
+    const usedExercises = new Set(); // Track used exercises to avoid repetition
+
+    while (exercises.length < count && usedExercises.size < groupedExercises[group].length) {
+      const randomIndex = Math.floor(Math.random() * groupedExercises[group].length);
+      const selectedExercise = groupedExercises[group][randomIndex];
+
+      if (!usedExercises.has(selectedExercise.name)) { // Ensure exercise is not repeated
+        exercises.push(selectedExercise);
+        usedExercises.add(selectedExercise.name); // Add exercise name to the set
+      }
+    }
+
+    return exercises;
   };
 
   if (days <= 3) {
@@ -103,39 +115,30 @@ function displaySchedule(plan) {
 
   plan.forEach(day => {
     const dayDiv = document.createElement('div');
-    dayDiv.style.flex = '1 1 calc(30% - 20px)';
-    dayDiv.style.padding = '20px';
-    dayDiv.style.border = '1px solid #ddd';
-    dayDiv.style.borderRadius = '8px';
-    dayDiv.style.backgroundColor = '#ffffff';
-    dayDiv.style.boxShadow = '0 4px 6px rgba(0, 0, 0, 0.1)';
-    dayDiv.style.transition = 'transform 0.2s, box-shadow 0.2s';
-    dayDiv.style.maxWidth = '300px';
+    dayDiv.classList.add('day-card');
 
     dayDiv.addEventListener('mouseover', () => {
-      dayDiv.style.transform = 'scale(1.025)';
-      dayDiv.style.boxShadow = '0 6px 10px rgba(0, 0, 0, 0.15)';
+      dayDiv.classList.add('day-card-hover');
     });
 
     dayDiv.addEventListener('mouseout', () => {
-      dayDiv.style.transform = 'scale(1)';
-      dayDiv.style.boxShadow = '0 4px 6px rgba(0, 0, 0, 0.1)';
+      dayDiv.classList.remove('day-card-hover');
     });
 
     const dayContent = `
-      <h3 style="font-size: 1.5rem; color: #333; margin-bottom: 10px;">${day.day}</h3>
-      <ul style="list-style: none; padding: 0; margin: 0;">
+      <h3 class="day-title">${day.day}</h3>
+      <ul class="exercise-list">
         ${day.exercises.map(exercise => `
-          <li style="margin-bottom: 15px;">
-            <strong style="font-size: 1.1rem; color: #555;">${exercise.name}</strong>
-            <p style="font-size: 0.9rem; color: #666; margin: 5px 0;">${exercise.instructions}</p>
-            <p style="font-size: 0.9rem; color: #666; margin: 5px 0;">
+          <li class="exercise-item">
+            <strong class="exercise-name">${exercise.name}</strong>
+            <p class="exercise-instructions">${exercise.instructions}</p>
+            <p class="exercise-muscle-group">
               <strong>Muscle Group:</strong> ${exercise.muscle_group || 'N/A'}
             </p>
-            <a href="${exercise.resources[0]}" target="_blank" style="color: #007BFF; text-decoration: none; font-size: 0.9rem;">
+            <a href="${exercise.resources[0]}" target="_blank" class="exercise-link">
               &#128214; Learn More
             </a><br>
-            <a href="${exercise.video}" target="_blank" style="color: #007BFF; text-decoration: none; font-size: 0.9rem;">
+            <a href="${exercise.video}" target="_blank" class="exercise-link">
               &#9654; Watch Video
             </a>
           </li>

@@ -1,10 +1,10 @@
-# Momentum 🏋️‍♂️
+# Momentum 
 
-Momentum is a lightweight, web-based application that generates personalized weekly gym regimens. Designed to help users stay consistent and motivated, it generates workout plans based on fitness goals, experience levels, and available training days—all using HTML, CSS, and JavaScript.
+**Momentum** is a lightweight, web-based application that generates personalized weekly gym regimens. 
 
----
+Designed to help users stay consistent and motivated, it generates workout plans based on fitness goals, experience levels, and available training days—all using HTML, CSS, and JavaScript.
 
-## Table of Contents
+##### Table of Contents
 - [Overview](#overview)
 - [Features](#features)
 - [Product Requirements](#product-requirements)
@@ -71,8 +71,8 @@ Momentum is built for individuals who want a structured, easy-to-use tool for pl
 
 ## Deployment Checklist
 - [X] Validate HTML/CSS for accessibility.
-- [ ] Ensure JSON fetch is working in production.
-- [ ] Minify and compress assets.
+- [X] Ensure JSON fetch is working in production.
+- [X] Minify and compress assets.
 - [ ] Deploy on GitHub Pages, Netlify, or similar hosting service.
 ---
 
@@ -85,11 +85,11 @@ momentum/
 ├── workouts.json      # JSON-based exercise database
 ├── README.md          # Project documentation (with embedded PRD)
 └── assets/            # (Optional) Images, logos, and preview screenshots
-    └── preview.png
+    └── 
 
 # Sprint Planning
 
-Momentum is developed using agile-inspired sprints to ensure iterative progress, frequent testing, and continuous delivery of value. Each sprint lasts **1 week** with clear goals and deliverables.
+Momentum is developed using agile-inspired sprints to ensure iterative progress, frequent testing, and continuous delivery of value. Each sprint lasts **~1 week** with clear goals and deliverables.
 
 ---
 
@@ -99,12 +99,12 @@ Momentum is developed using agile-inspired sprints to ensure iterative progress,
 **Goal:** Build a functional gym regimen generator with a static frontend.
 
 ### Deliverables:
-- [x] Set up project structure (HTML, CSS, JS)
+- [x] Set up project structure (HTML, CSS, Vanilla JS)
 - [x] Create and load `workouts.json` data file
 - [x] Build user form to collect goal, experience, and availability
 - [x] Generate weekly plan dynamically
 - [x] Display workouts by day
-- [x] Basic styling (responsive)
+- [x] Create modern and responsive UI styling to reflect accesibility guidelines
 
 ---
 
@@ -114,7 +114,7 @@ Momentum is developed using agile-inspired sprints to ensure iterative progress,
 **Goal:** Enhance user experience and add polish.
 
 ### Deliverables:
-- [ ] Refine CSS for mobile responsiveness
+- [ ] Refine CSS for desktop and mobile responsiveness
 - [ ] Add error handling for form validation & fetch failures
 - [ ] Create loading state when generating workouts
 - [ ] Highlight active day or allow day-by-day expansion
@@ -124,7 +124,7 @@ Momentum is developed using agile-inspired sprints to ensure iterative progress,
 
 ## Sprint 3: Feature Expansion
 
-**Duration:** 1 Week  
+**Duration:** April 13, 2025 - April 19, 2025 (1 Week) 
 **Goal:** Extend core features based on feedback.
 
 ### Deliverables:
@@ -138,7 +138,7 @@ Momentum is developed using agile-inspired sprints to ensure iterative progress,
 
 ## Sprint 4: Deployment + Docs
 
-**Duration:** 1 Week  
+**Duration:** April 20, 2025 - April 26, 2025 (1 Week)  
 **Goal:** Prepare project for public release.
 
 ### Deliverables:
@@ -164,6 +164,8 @@ Momentum is developed using agile-inspired sprints to ensure iterative progress,
 - Standups: Solo check-ins or journal entries in a dev log
 - Retros: Reflect at the end of each sprint on what's working, what to improve
 - Tasks managed in GitHub Issues or Trello (optional)
+
+---
 
 # Getting Started
 

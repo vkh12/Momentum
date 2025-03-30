@@ -1,7 +1,7 @@
 body {
   font-family: Arial, sans-serif;
   margin: 0;
-  padding: 0;
+  padding: 20px;
   background-color: #f4f4f9;
   color: #333;
 }
@@ -80,4 +80,60 @@ button.generate-button:hover {
 #output {
   font-size: 18px;
   color: #155724;
+  margin-top: 20px;
+}
+
+.day-card {
+  flex: 1 1 calc(30% - 20px);
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #ffffff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+  max-width: 300px;
+}
+
+.day-card-hover {
+  transform: scale(1.025);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+}
+
+.day-title {
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.exercise-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.exercise-item {
+  margin-bottom: 15px;
+}
+
+.exercise-name {
+  font-size: 1.1rem;
+  color: #555;
+}
+
+.exercise-instructions {
+  font-size: 0.9rem;
+  color: #666;
+  margin: 5px 0;
+}
+
+.exercise-muscle-group {
+  font-size: 0.9rem;
+  color: #666;
+  margin: 5px 0;
+}
+
+.exercise-link {
+  color: #007BFF;
+  text-decoration: none;
+  font-size: 0.9rem;
 }
