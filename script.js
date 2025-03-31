@@ -19,11 +19,11 @@ fetch('workouts.json')
       // Display the generated schedule
       displaySchedule(schedule);
     });
-  })
-  .catch(error => {
-    console.error('Error loading workouts.json:', error);
-    document.getElementById('output').innerHTML = 'Failed to load workout data. Please try again later.';
-    document.querySelector('.results').style.display = 'block';
+
+    document.getElementById('generate-button').addEventListener('click', function () {
+      // Generate the workout plan logic here (if any)
+
+      // Make the output section visible
   });
 
 // Function to generate a workout plan
