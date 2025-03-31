@@ -1,139 +1,73 @@
 body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 20px;
-  background-color: #f4f4f9;
-  color: #333;
+  font-family: 'Inter', sans-serif;
 }
-
-.container {
-  max-width: 95%;
-  margin: 50px auto;
-  padding: 20px;
-  background: #fff;
-  border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-h1 {
-  text-align: center;
-  color: #444;
-  margin-bottom: 24px;
-}
-
-.form-container {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr); /* Four equal columns */
-  gap: 25px; /* Equal spacing between items */
-  align-items: center;
-}
-
-.form-group {
+.day-card {
+  background-color: #1f2937;
+  border: 1px solid #374151;
+  border-radius: 1.5rem;
+  padding: 2rem;
+  box-shadow: 0 15px 25px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease, opacity 0.4s ease;
+  width: 100%;
+  max-width: 340px;
   display: flex;
   flex-direction: column;
+  gap: .5rem;
+  opacity: 0;
+  transform: translateY(20px) scale(0.95) rotateX(5deg);
+  animation: fadeInUpCascading 0.6s ease forwards;
 }
-
-label {
-  margin-bottom: 5px;
-  font-size: 18px;
+.day-card:hover {
+  transform: translateY(-3px) scale(1) rotateX(0);
+  box-shadow: 0 20px 30px rgba(0, 0, 0, 0.3);
 }
-
-select,
-input[type="number"] {
-  padding: 10px 16px; 
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  font-size: 18px;
-  width: auto;
-  box-sizing: border-box; 
-  height: 48px;
-}
-
-button.generate-button {
-  padding: 10px 16px;
-  background-color: #007bff;
-  color: #fff;
-  border: none;
-  border-radius: 4px;
-  font-size: 18px;
-  font-weight: bold;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-  height: 48px; 
-  width: 100%; 
-  box-sizing: border-box; 
-  align-self: end;
-}
-
-button.generate-button:hover {
-  background-color: #0056b3;
-}
-
-.results {
-  margin-top: 20px;
-  padding: 15px;
-  background-color: #e9f7ef;
-  border: 1px solid #d4edda;
-  border-radius: 4px;
-}
-
-#output {
-  font-size: 18px;
-  color: #155724;
-  margin-top: 20px;
-}
-
-.day-card {
-  flex: 1 1 calc(30% - 20px);
-  padding: 20px;
-  border: 1px solid #ddd;
-  border-radius: 8px;
-  background-color: #ffffff;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  transition: transform 0.2s, box-shadow 0.2s;
-  max-width: 300px;
-}
-
-.day-card-hover {
-  transform: scale(1.025);
-  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
-}
-
-.day-title {
+.day-card h3 {
   font-size: 1.5rem;
-  color: #333;
-  margin-bottom: 10px;
+  color: #fff;
 }
-
-.exercise-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.exercise-item {
-  margin-bottom: 15px;
-}
-
 .exercise-name {
-  font-size: 1.1rem;
-  color: #555;
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: #f97316;
 }
-
-.exercise-instructions {
-  font-size: 0.9rem;
-  color: #666;
-  margin: 5px 0;
-}
-
+.exercise-instructions,
 .exercise-muscle-group {
-  font-size: 0.9rem;
-  color: #666;
-  margin: 5px 0;
+  font-size: 0.875rem;
+  color: #d1d5db;
+}
+.exercise-link {
+  font-size: 0.875rem;
+  color: #fff; /* White text */
+  background-color: transparent; /* Transparent background */
+  border: 1px solid #fff; /* White border */
+  padding: 0.5rem 1rem; /* Padding for button-like appearance */
+  border-radius: 2.5rem; /* Rounded corners */
+  text-decoration: none; /* Remove underline */
+  display: inline-block; /* Inline-block for proper spacing */
+  text-align: center; /* Center text inside the button */
+  transition: background-color 0.3s ease, color 0.3s ease, transform 0.2s ease;
 }
 
-.exercise-link {
-  color: #007BFF;
-  text-decoration: none;
-  font-size: 0.9rem;
+.exercise-link:hover {
+  background-color: #fff; /* White background on hover */
+  color: #1f2937; /* Dark text on hover */
+  transform: translateY(-2px); /* Slight lift effect */
 }
+
+.exercise-buttons {
+  display: flex; /* Align buttons in a row */
+  gap: 0.5rem; /* Space between buttons */
+  justify-content: flex-start; /* Align buttons to the left */
+  align-items: center; /* Vertically center the buttons */
+}
+@keyframes fadeInUpCascading {
+  from {
+    opacity: 0;
+    transform: translateY(20px) scale(0.95) rotateX(5deg);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1) rotateX(0);
+  }
+}
+
