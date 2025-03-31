@@ -3,13 +3,34 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Workout Generator</title>
+  <title>Momentum</title>
   <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
-  <div class="container">
-    <h1>Workout Generator</h1>
-    
+  <header class="hero">
+    <div class="hero-content">
+      <h1 class="hero-title">Achieve Your Fitness Goals with <i>Momentum</i></h1>
+      <p class="hero-subtitle">Your ultimate workout generator for personalized fitness plans.</p>
+      <a href="#workout-form" class="cta-button">Start Your Journey</a>
+    </div>
+    <div class="hero-instructions">
+      <p><strong>How It Works:</strong> Select your goal, experience level, and workout days. Click "Generate" to get your custom plan!</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="instructions">
+      <h2>How It Works</h2>
+      <p>Follow these simple steps to generate your custom workout plan:</p>
+      <ol>
+        <li>Select your fitness goal (e.g., Weight Loss, Muscle Gain, or Endurance).</li>
+        <li>Choose your experience level (Beginner, Intermediate, or Advanced).</li>
+        <li>Set the number of workout days per week.</li>
+        <li>Click the "Generate" button to get your personalized workout plan!</li>
+      </ol>
+    </section>
+
     <form id="workout-form" class="form-container">
       <div class="form-group">
         <label for="goal">Select Goal:</label>
@@ -38,7 +59,7 @@
     </form>
 
     <div id="output" class="results" style="display: none;"></div>
-  </div>
+  </main>
 
   <script src="script.js"></script>
 </body>
