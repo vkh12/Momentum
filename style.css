@@ -9,11 +9,11 @@ body {
   box-shadow: 0 15px 25px rgba(0, 0, 0, 0.2);
   transition: transform 0.3s ease, box-shadow 0.3s ease, opacity 0.4s ease;
   width: 100%;
-  max-width: 340px;
   display: flex;
   flex-direction: column;
   gap: .5rem;
   opacity: 0;
+  line-height: 1.25rem;
   transform: translateY(20px) scale(0.95) rotateX(5deg);
   animation: fadeInUpCascading 0.6s ease forwards;
 }
@@ -56,9 +56,10 @@ body {
 
 .exercise-buttons {
   display: flex; /* Align buttons in a row */
-  gap: 0.5rem; /* Space between buttons */
-  justify-content: flex-start; /* Align buttons to the left */
+  gap: 1rem; /* Space between buttons */
+  justify-content: center;
   align-items: center; /* Vertically center the buttons */
+  flex-wrap: nowrap;
 }
 @keyframes fadeInUpCascading {
   from {
