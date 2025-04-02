@@ -112,6 +112,8 @@ Momentum is developed using agile-inspired sprints to ensure iterative progress,
 - [x] Display workouts by day
 - [x] Create modern and responsive UI styling to reflect accesibility guidelines
 
+https://github.com/user-attachments/assets/e425cb89-7015-4e52-a610-ba861df89c94
+
 ---
 
 ## Sprint 2: Usability + UI Improvements
