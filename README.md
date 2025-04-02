@@ -61,13 +61,19 @@ Momentum is built for individuals who want a structured, easy-to-use tool for pl
 - JSON data should be human-readable and easily maintainable.
 
 ## Tech Stack
-| Technology     | Purpose                          |
-|----------------|----------------------------------|
-| HTML5          | Application structure            |
-| CSS3           | Styling and responsive layout    |
-| JavaScript ES6 | App logic and dynamic content    |
-| JSON           | Exercise database                |
-| Git            | Version control                  |
+| Technology       | Purpose                          |
+|------------------|----------------------------------|
+| HTML5            | Application structure            |
+| CSS3             | Styling and responsive layout    |
+| Tailwind CSS     | Utility-first CSS framework for faster styling |
+| JavaScript ES6   | App logic and dynamic content    |
+| JSON             | Exercise database                |
+| Git              | Version control                  |
+| GitHub Pages     | Deployment and hosting           |
+| Python (HTTP Server) | Local development server    |
+| VS Code          | Code editor                      |
+| Chrome DevTools  | Debugging and performance testing|
+| Lighthouse       | Accessibility and performance audits |
 
 ## Deployment Checklist
 - [X] Validate HTML/CSS for accessibility.
