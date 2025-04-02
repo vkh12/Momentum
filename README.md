@@ -126,7 +126,7 @@ https://github.com/user-attachments/assets/e425cb89-7015-4e52-a610-ba861df89c94
 - [ ] Add error handling for form validation & fetch failures
 - [ ] Create loading state when generating workouts
 - [ ] Highlight active day or allow day-by-day expansion
-- [ ] Add preview image (GIF/screenshot) for README
+- [X] Add preview image (GIF/screenshot) for README
 
 ---
 
