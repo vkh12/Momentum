@@ -79,7 +79,11 @@ Momentum is built for individuals who want a structured, easy-to-use tool for pl
 - [X] Validate HTML/CSS for accessibility.
 - [X] Ensure JSON fetch is working in production.
 - [X] Minify and compress assets.
-- [ ] Deploy on GitHub Pages, Netlify, or similar hosting service.
+- [X] Deploy on Netlify.
+
+### Deployed Site
+Visit the live site here: [Momentum](https://dashing-smakager-f020f2.netlify.app)
+
 ---
 
 # Project Directory
@@ -111,6 +115,8 @@ Momentum is developed using agile-inspired sprints to ensure iterative progress,
 - [x] Generate weekly plan dynamically
 - [x] Display workouts by day
 - [x] Create modern and responsive UI styling to reflect accesibility guidelines
+- [x] Deploy on Netlify
+
 
 https://github.com/user-attachments/assets/e425cb89-7015-4e52-a610-ba861df89c94
 
@@ -151,7 +157,6 @@ https://github.com/user-attachments/assets/e425cb89-7015-4e52-a610-ba861df89c94
 
 ### Deliverables:
 - [ ] Finalize README with visuals and deployment instructions
-- [ ] Deploy to GitHub Pages or Netlify
 - [ ] Add favicon and logo
 - [ ] Final code cleanup and linting
 
