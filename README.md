@@ -4,6 +4,8 @@
 
 Designed to help users stay consistent and motivated, it generates workout plans based on fitness goals, experience levels, and available training days—all using HTML, CSS, and JavaScript.
 
+Visit the live site here: [Momentum](https://dashing-smakager-f020f2.netlify.app)
+
 ##### Table of Contents
 - [Overview](#overview)
 - [Features](#features)
